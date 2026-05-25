@@ -1,0 +1,7002 @@
+[
+  {
+    "id": "dog1",
+    "type": "dog",
+    "name": "Hopper",
+    "description": "A dog #1, approx 50 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "dog2",
+    "type": "dog",
+    "name": "Spike",
+    "description": "A dog #2, approx 9 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "dog3",
+    "type": "dog",
+    "name": "Max",
+    "description": "A dog #3, approx 71 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "dog4",
+    "type": "dog",
+    "name": "Leo",
+    "description": "A dog #4, approx 64 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "dog5",
+    "type": "dog",
+    "name": "Slither",
+    "description": "A dog #5, approx 75 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "dog6",
+    "type": "dog",
+    "name": "Bella",
+    "description": "A dog #6, approx 32 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "dog7",
+    "type": "dog",
+    "name": "Ruby",
+    "description": "A dog #7, approx 40 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "dog8",
+    "type": "dog",
+    "name": "Finn",
+    "description": "A dog #8, approx 24 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "dog9",
+    "type": "dog",
+    "name": "Daisy",
+    "description": "A dog #9, approx 76 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "dog10",
+    "type": "dog",
+    "name": "Snowball",
+    "description": "A dog #10, approx 65 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "dog11",
+    "type": "dog",
+    "name": "Daisy",
+    "description": "A dog #11, approx 11 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "dog12",
+    "type": "dog",
+    "name": "Bubbles",
+    "description": "A dog #12, approx 99 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "dog13",
+    "type": "dog",
+    "name": "Poseidon",
+    "description": "A dog #13, approx 44 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "dog14",
+    "type": "dog",
+    "name": "Lola",
+    "description": "A dog #14, approx 92 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "dog15",
+    "type": "dog",
+    "name": "Daisy",
+    "description": "A dog #15, approx 83 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "dog16",
+    "type": "dog",
+    "name": "Brownie",
+    "description": "A dog #16, approx 93 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "dog17",
+    "type": "dog",
+    "name": "Melody",
+    "description": "A dog #17, approx 34 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "dog18",
+    "type": "dog",
+    "name": "Sky",
+    "description": "A dog #18, approx 48 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "dog19",
+    "type": "dog",
+    "name": "Banana",
+    "description": "A dog #19, approx 70 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "dog20",
+    "type": "dog",
+    "name": "Milo",
+    "description": "A dog #20, approx 30 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "dog21",
+    "type": "dog",
+    "name": "Shadow",
+    "description": "A dog #21, approx 96 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "dog22",
+    "type": "dog",
+    "name": "Buddy",
+    "description": "A dog #22, approx 98 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "dog23",
+    "type": "dog",
+    "name": "Echo",
+    "description": "A dog #23, approx 9 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "dog24",
+    "type": "dog",
+    "name": "Cookie",
+    "description": "A dog #24, approx 66 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "dog25",
+    "type": "dog",
+    "name": "Buddy",
+    "description": "A dog #25, approx 29 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "dog26",
+    "type": "dog",
+    "name": "Odin",
+    "description": "A dog #26, approx 64 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "dog27",
+    "type": "dog",
+    "name": "Pepper",
+    "description": "A dog #27, approx 41 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "dog28",
+    "type": "dog",
+    "name": "Leo",
+    "description": "A dog #28, approx 50 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "dog29",
+    "type": "dog",
+    "name": "Apollo",
+    "description": "A dog #29, approx 98 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "dog30",
+    "type": "dog",
+    "name": "Melody",
+    "description": "A dog #30, approx 13 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "dog31",
+    "type": "dog",
+    "name": "Oscar",
+    "description": "A dog #31, approx 40 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "dog32",
+    "type": "dog",
+    "name": "Blaze",
+    "description": "A dog #32, approx 60 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "dog33",
+    "type": "dog",
+    "name": "Coco",
+    "description": "A dog #33, approx 10 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "dog34",
+    "type": "dog",
+    "name": "Slither",
+    "description": "A dog #34, approx 29 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "dog35",
+    "type": "dog",
+    "name": "Harmony",
+    "description": "A dog #35, approx 28 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "dog36",
+    "type": "dog",
+    "name": "Dash",
+    "description": "A dog #36, approx 39 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "dog37",
+    "type": "dog",
+    "name": "Rocky",
+    "description": "A dog #37, approx 93 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "dog38",
+    "type": "dog",
+    "name": "Sunny",
+    "description": "A dog #38, approx 73 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "dog39",
+    "type": "dog",
+    "name": "Rocky",
+    "description": "A dog #39, approx 90 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "dog40",
+    "type": "dog",
+    "name": "Nala",
+    "description": "A dog #40, approx 87 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "dog41",
+    "type": "dog",
+    "name": "Peanut",
+    "description": "A dog #41, approx 57 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "dog42",
+    "type": "dog",
+    "name": "Polly",
+    "description": "A dog #42, approx 63 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "dog43",
+    "type": "dog",
+    "name": "Slither",
+    "description": "A dog #43, approx 4 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "dog44",
+    "type": "dog",
+    "name": "Harmony",
+    "description": "A dog #44, approx 66 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "dog45",
+    "type": "dog",
+    "name": "Kiwi",
+    "description": "A dog #45, approx 4 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "dog46",
+    "type": "dog",
+    "name": "Melody",
+    "description": "A dog #46, approx 47 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "dog47",
+    "type": "dog",
+    "name": "Ember",
+    "description": "A dog #47, approx 12 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "dog48",
+    "type": "dog",
+    "name": "Venus",
+    "description": "A dog #48, approx 59 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "dog49",
+    "type": "dog",
+    "name": "Odin",
+    "description": "A dog #49, approx 40 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "dog50",
+    "type": "dog",
+    "name": "Bella",
+    "description": "A dog #50, approx 88 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "cat1",
+    "type": "cat",
+    "name": "Daisy",
+    "description": "A cat #1, approx 17 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "cat2",
+    "type": "cat",
+    "name": "Storm",
+    "description": "A cat #2, approx 49 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "cat3",
+    "type": "cat",
+    "name": "Coco",
+    "description": "A cat #3, approx 31 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "cat4",
+    "type": "cat",
+    "name": "Blaze",
+    "description": "A cat #4, approx 84 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "cat5",
+    "type": "cat",
+    "name": "Honey",
+    "description": "A cat #5, approx 71 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "cat6",
+    "type": "cat",
+    "name": "Zoom",
+    "description": "A cat #6, approx 58 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "cat7",
+    "type": "cat",
+    "name": "Ivy",
+    "description": "A cat #7, approx 8 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "cat8",
+    "type": "cat",
+    "name": "Harmony",
+    "description": "A cat #8, approx 57 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "cat9",
+    "type": "cat",
+    "name": "Hazel",
+    "description": "A cat #9, approx 61 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "cat10",
+    "type": "cat",
+    "name": "Daisy",
+    "description": "A cat #10, approx 80 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "cat11",
+    "type": "cat",
+    "name": "Oscar",
+    "description": "A cat #11, approx 86 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "cat12",
+    "type": "cat",
+    "name": "Bubbles",
+    "description": "A cat #12, approx 16 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "cat13",
+    "type": "cat",
+    "name": "Ivy",
+    "description": "A cat #13, approx 89 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "cat14",
+    "type": "cat",
+    "name": "Mocha",
+    "description": "A cat #14, approx 79 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "cat15",
+    "type": "cat",
+    "name": "Maple",
+    "description": "A cat #15, approx 55 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "cat16",
+    "type": "cat",
+    "name": "Oakley",
+    "description": "A cat #16, approx 90 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "cat17",
+    "type": "cat",
+    "name": "Muffin",
+    "description": "A cat #17, approx 7 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "cat18",
+    "type": "cat",
+    "name": "Apollo",
+    "description": "A cat #18, approx 2 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "cat19",
+    "type": "cat",
+    "name": "Jazz",
+    "description": "A cat #19, approx 45 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "cat20",
+    "type": "cat",
+    "name": "Lucy",
+    "description": "A cat #20, approx 26 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "cat21",
+    "type": "cat",
+    "name": "Shelly",
+    "description": "A cat #21, approx 13 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "cat22",
+    "type": "cat",
+    "name": "Freya",
+    "description": "A cat #22, approx 89 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "cat23",
+    "type": "cat",
+    "name": "Shelly",
+    "description": "A cat #23, approx 89 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "cat24",
+    "type": "cat",
+    "name": "Pepper",
+    "description": "A cat #24, approx 57 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "cat25",
+    "type": "cat",
+    "name": "Hazel",
+    "description": "A cat #25, approx 81 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "cat26",
+    "type": "cat",
+    "name": "Violet",
+    "description": "A cat #26, approx 48 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "cat27",
+    "type": "cat",
+    "name": "Milo",
+    "description": "A cat #27, approx 16 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "cat28",
+    "type": "cat",
+    "name": "Milo",
+    "description": "A cat #28, approx 28 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "cat29",
+    "type": "cat",
+    "name": "Freya",
+    "description": "A cat #29, approx 73 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "cat30",
+    "type": "cat",
+    "name": "Slither",
+    "description": "A cat #30, approx 93 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "cat31",
+    "type": "cat",
+    "name": "Muffin",
+    "description": "A cat #31, approx 80 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "cat32",
+    "type": "cat",
+    "name": "Rocky",
+    "description": "A cat #32, approx 18 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "cat33",
+    "type": "cat",
+    "name": "Echo",
+    "description": "A cat #33, approx 68 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "cat34",
+    "type": "cat",
+    "name": "Odin",
+    "description": "A cat #34, approx 17 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "cat35",
+    "type": "cat",
+    "name": "Honey",
+    "description": "A cat #35, approx 9 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "cat36",
+    "type": "cat",
+    "name": "Orchid",
+    "description": "A cat #36, approx 83 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "cat37",
+    "type": "cat",
+    "name": "Zoom",
+    "description": "A cat #37, approx 4 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "cat38",
+    "type": "cat",
+    "name": "Croak",
+    "description": "A cat #38, approx 49 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "cat39",
+    "type": "cat",
+    "name": "Blaze",
+    "description": "A cat #39, approx 99 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "cat40",
+    "type": "cat",
+    "name": "Splash",
+    "description": "A cat #40, approx 18 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "cat41",
+    "type": "cat",
+    "name": "Hazel",
+    "description": "A cat #41, approx 24 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "cat42",
+    "type": "cat",
+    "name": "Muffin",
+    "description": "A cat #42, approx 67 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "cat43",
+    "type": "cat",
+    "name": "Luna",
+    "description": "A cat #43, approx 78 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "cat44",
+    "type": "cat",
+    "name": "Shadow",
+    "description": "A cat #44, approx 22 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "cat45",
+    "type": "cat",
+    "name": "Coco",
+    "description": "A cat #45, approx 90 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "cat46",
+    "type": "cat",
+    "name": "Nala",
+    "description": "A cat #46, approx 59 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "cat47",
+    "type": "cat",
+    "name": "Jazz",
+    "description": "A cat #47, approx 75 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "cat48",
+    "type": "cat",
+    "name": "Rain",
+    "description": "A cat #48, approx 63 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "cat49",
+    "type": "cat",
+    "name": "Shadow",
+    "description": "A cat #49, approx 55 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "cat50",
+    "type": "cat",
+    "name": "Flash",
+    "description": "A cat #50, approx 28 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "bird1",
+    "type": "bird",
+    "name": "Artemis",
+    "description": "A bird #1, approx 68 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "bird2",
+    "type": "bird",
+    "name": "Slither",
+    "description": "A bird #2, approx 92 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "bird3",
+    "type": "bird",
+    "name": "Tulip",
+    "description": "A bird #3, approx 35 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "bird4",
+    "type": "bird",
+    "name": "Hera",
+    "description": "A bird #4, approx 46 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "bird5",
+    "type": "bird",
+    "name": "Hopper",
+    "description": "A bird #5, approx 56 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "bird6",
+    "type": "bird",
+    "name": "Simba",
+    "description": "A bird #6, approx 73 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "bird7",
+    "type": "bird",
+    "name": "Simba",
+    "description": "A bird #7, approx 73 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "bird8",
+    "type": "bird",
+    "name": "Hera",
+    "description": "A bird #8, approx 34 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "bird9",
+    "type": "bird",
+    "name": "Dash",
+    "description": "A bird #9, approx 33 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "bird10",
+    "type": "bird",
+    "name": "Rain",
+    "description": "A bird #10, approx 52 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "bird11",
+    "type": "bird",
+    "name": "Fern",
+    "description": "A bird #11, approx 81 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "bird12",
+    "type": "bird",
+    "name": "Goldie",
+    "description": "A bird #12, approx 60 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "bird13",
+    "type": "bird",
+    "name": "Song",
+    "description": "A bird #13, approx 2 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "bird14",
+    "type": "bird",
+    "name": "Orchid",
+    "description": "A bird #14, approx 3 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "bird15",
+    "type": "bird",
+    "name": "Whisper",
+    "description": "A bird #15, approx 87 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "bird16",
+    "type": "bird",
+    "name": "Honey",
+    "description": "A bird #16, approx 32 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "bird17",
+    "type": "bird",
+    "name": "Kiwi",
+    "description": "A bird #17, approx 88 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "bird18",
+    "type": "bird",
+    "name": "Luna",
+    "description": "A bird #18, approx 31 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "bird19",
+    "type": "bird",
+    "name": "Sugar",
+    "description": "A bird #19, approx 33 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "bird20",
+    "type": "bird",
+    "name": "George",
+    "description": "A bird #20, approx 90 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "bird21",
+    "type": "bird",
+    "name": "Apollo",
+    "description": "A bird #21, approx 58 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "bird22",
+    "type": "bird",
+    "name": "Song",
+    "description": "A bird #22, approx 3 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "bird23",
+    "type": "bird",
+    "name": "Ember",
+    "description": "A bird #23, approx 89 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "bird24",
+    "type": "bird",
+    "name": "Nala",
+    "description": "A bird #24, approx 9 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "bird25",
+    "type": "bird",
+    "name": "George",
+    "description": "A bird #25, approx 83 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "bird26",
+    "type": "bird",
+    "name": "Oscar",
+    "description": "A bird #26, approx 43 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "bird27",
+    "type": "bird",
+    "name": "Sugar",
+    "description": "A bird #27, approx 93 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "bird28",
+    "type": "bird",
+    "name": "Spike",
+    "description": "A bird #28, approx 20 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "bird29",
+    "type": "bird",
+    "name": "Goldie",
+    "description": "A bird #29, approx 20 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "bird30",
+    "type": "bird",
+    "name": "Violet",
+    "description": "A bird #30, approx 39 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "bird31",
+    "type": "bird",
+    "name": "Orchid",
+    "description": "A bird #31, approx 51 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "bird32",
+    "type": "bird",
+    "name": "Rose",
+    "description": "A bird #32, approx 23 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "bird33",
+    "type": "bird",
+    "name": "Blaze",
+    "description": "A bird #33, approx 36 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "bird34",
+    "type": "bird",
+    "name": "River",
+    "description": "A bird #34, approx 95 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "bird35",
+    "type": "bird",
+    "name": "Blaze",
+    "description": "A bird #35, approx 63 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "bird36",
+    "type": "bird",
+    "name": "Splash",
+    "description": "A bird #36, approx 10 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "bird37",
+    "type": "bird",
+    "name": "Mocha",
+    "description": "A bird #37, approx 77 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "bird38",
+    "type": "bird",
+    "name": "Spike",
+    "description": "A bird #38, approx 50 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "bird39",
+    "type": "bird",
+    "name": "Kiwi",
+    "description": "A bird #39, approx 26 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "bird40",
+    "type": "bird",
+    "name": "Ivy",
+    "description": "A bird #40, approx 74 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "bird41",
+    "type": "bird",
+    "name": "Shadow",
+    "description": "A bird #41, approx 17 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "bird42",
+    "type": "bird",
+    "name": "Buddy",
+    "description": "A bird #42, approx 60 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "bird43",
+    "type": "bird",
+    "name": "Daisy",
+    "description": "A bird #43, approx 92 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "bird44",
+    "type": "bird",
+    "name": "George",
+    "description": "A bird #44, approx 43 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "bird45",
+    "type": "bird",
+    "name": "Thumper",
+    "description": "A bird #45, approx 29 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "bird46",
+    "type": "bird",
+    "name": "Pepper",
+    "description": "A bird #46, approx 57 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "bird47",
+    "type": "bird",
+    "name": "Ash",
+    "description": "A bird #47, approx 25 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "bird48",
+    "type": "bird",
+    "name": "Goldie",
+    "description": "A bird #48, approx 78 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "bird49",
+    "type": "bird",
+    "name": "Goldie",
+    "description": "A bird #49, approx 60 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "bird50",
+    "type": "bird",
+    "name": "Chai",
+    "description": "A bird #50, approx 8 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "rabbit1",
+    "type": "rabbit",
+    "name": "Artemis",
+    "description": "A rabbit #1, approx 47 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "rabbit2",
+    "type": "rabbit",
+    "name": "Blaze",
+    "description": "A rabbit #2, approx 98 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "rabbit3",
+    "type": "rabbit",
+    "name": "Melody",
+    "description": "A rabbit #3, approx 15 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "rabbit4",
+    "type": "rabbit",
+    "name": "Athena",
+    "description": "A rabbit #4, approx 11 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "rabbit5",
+    "type": "rabbit",
+    "name": "Peanut",
+    "description": "A rabbit #5, approx 85 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "rabbit6",
+    "type": "rabbit",
+    "name": "Flash",
+    "description": "A rabbit #6, approx 80 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "rabbit7",
+    "type": "rabbit",
+    "name": "Storm",
+    "description": "A rabbit #7, approx 27 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "rabbit8",
+    "type": "rabbit",
+    "name": "Muffin",
+    "description": "A rabbit #8, approx 70 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "rabbit9",
+    "type": "rabbit",
+    "name": "Zeus",
+    "description": "A rabbit #9, approx 7 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "rabbit10",
+    "type": "rabbit",
+    "name": "Coco",
+    "description": "A rabbit #10, approx 61 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "rabbit11",
+    "type": "rabbit",
+    "name": "Zoom",
+    "description": "A rabbit #11, approx 25 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "rabbit12",
+    "type": "rabbit",
+    "name": "Hopper",
+    "description": "A rabbit #12, approx 85 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "rabbit13",
+    "type": "rabbit",
+    "name": "Rose",
+    "description": "A rabbit #13, approx 78 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "rabbit14",
+    "type": "rabbit",
+    "name": "Peanut",
+    "description": "A rabbit #14, approx 95 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "rabbit15",
+    "type": "rabbit",
+    "name": "Peanut",
+    "description": "A rabbit #15, approx 57 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "rabbit16",
+    "type": "rabbit",
+    "name": "Zoom",
+    "description": "A rabbit #16, approx 50 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "rabbit17",
+    "type": "rabbit",
+    "name": "Lola",
+    "description": "A rabbit #17, approx 14 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "rabbit18",
+    "type": "rabbit",
+    "name": "Shelly",
+    "description": "A rabbit #18, approx 54 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "rabbit19",
+    "type": "rabbit",
+    "name": "Bubbles",
+    "description": "A rabbit #19, approx 49 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "rabbit20",
+    "type": "rabbit",
+    "name": "Nala",
+    "description": "A rabbit #20, approx 43 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "rabbit21",
+    "type": "rabbit",
+    "name": "Lola",
+    "description": "A rabbit #21, approx 89 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "rabbit22",
+    "type": "rabbit",
+    "name": "Bella",
+    "description": "A rabbit #22, approx 39 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "rabbit23",
+    "type": "rabbit",
+    "name": "Whisper",
+    "description": "A rabbit #23, approx 6 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "rabbit24",
+    "type": "rabbit",
+    "name": "George",
+    "description": "A rabbit #24, approx 46 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "rabbit25",
+    "type": "rabbit",
+    "name": "Fern",
+    "description": "A rabbit #25, approx 26 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "rabbit26",
+    "type": "rabbit",
+    "name": "Hera",
+    "description": "A rabbit #26, approx 16 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "rabbit27",
+    "type": "rabbit",
+    "name": "Shadow",
+    "description": "A rabbit #27, approx 53 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "rabbit28",
+    "type": "rabbit",
+    "name": "Leo",
+    "description": "A rabbit #28, approx 49 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "rabbit29",
+    "type": "rabbit",
+    "name": "Polly",
+    "description": "A rabbit #29, approx 37 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "rabbit30",
+    "type": "rabbit",
+    "name": "Polly",
+    "description": "A rabbit #30, approx 53 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "rabbit31",
+    "type": "rabbit",
+    "name": "Shelly",
+    "description": "A rabbit #31, approx 70 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "rabbit32",
+    "type": "rabbit",
+    "name": "Finn",
+    "description": "A rabbit #32, approx 81 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "rabbit33",
+    "type": "rabbit",
+    "name": "Mocha",
+    "description": "A rabbit #33, approx 43 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "rabbit34",
+    "type": "rabbit",
+    "name": "Ivy",
+    "description": "A rabbit #34, approx 14 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "rabbit35",
+    "type": "rabbit",
+    "name": "Athena",
+    "description": "A rabbit #35, approx 64 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "rabbit36",
+    "type": "rabbit",
+    "name": "Violet",
+    "description": "A rabbit #36, approx 87 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "rabbit37",
+    "type": "rabbit",
+    "name": "Lola",
+    "description": "A rabbit #37, approx 23 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "rabbit38",
+    "type": "rabbit",
+    "name": "Slither",
+    "description": "A rabbit #38, approx 69 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "rabbit39",
+    "type": "rabbit",
+    "name": "Max",
+    "description": "A rabbit #39, approx 8 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "rabbit40",
+    "type": "rabbit",
+    "name": "Finn",
+    "description": "A rabbit #40, approx 92 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "rabbit41",
+    "type": "rabbit",
+    "name": "Jazz",
+    "description": "A rabbit #41, approx 81 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "rabbit42",
+    "type": "rabbit",
+    "name": "Peanut",
+    "description": "A rabbit #42, approx 66 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "rabbit43",
+    "type": "rabbit",
+    "name": "Ash",
+    "description": "A rabbit #43, approx 35 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "rabbit44",
+    "type": "rabbit",
+    "name": "Croak",
+    "description": "A rabbit #44, approx 72 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "rabbit45",
+    "type": "rabbit",
+    "name": "Pepper",
+    "description": "A rabbit #45, approx 38 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "rabbit46",
+    "type": "rabbit",
+    "name": "Milo",
+    "description": "A rabbit #46, approx 75 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "rabbit47",
+    "type": "rabbit",
+    "name": "Charlie",
+    "description": "A rabbit #47, approx 97 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "rabbit48",
+    "type": "rabbit",
+    "name": "Rose",
+    "description": "A rabbit #48, approx 87 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "rabbit49",
+    "type": "rabbit",
+    "name": "Rocky",
+    "description": "A rabbit #49, approx 77 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "rabbit50",
+    "type": "rabbit",
+    "name": "Tulip",
+    "description": "A rabbit #50, approx 61 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "hamster1",
+    "type": "hamster",
+    "name": "Sky",
+    "description": "A hamster #1, approx 36 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "hamster2",
+    "type": "hamster",
+    "name": "Cloud",
+    "description": "A hamster #2, approx 21 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "hamster3",
+    "type": "hamster",
+    "name": "Honey",
+    "description": "A hamster #3, approx 58 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "hamster4",
+    "type": "hamster",
+    "name": "Orchid",
+    "description": "A hamster #4, approx 48 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "hamster5",
+    "type": "hamster",
+    "name": "Fern",
+    "description": "A hamster #5, approx 5 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "hamster6",
+    "type": "hamster",
+    "name": "Melody",
+    "description": "A hamster #6, approx 38 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "hamster7",
+    "type": "hamster",
+    "name": "Echo",
+    "description": "A hamster #7, approx 91 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "hamster8",
+    "type": "hamster",
+    "name": "Banana",
+    "description": "A hamster #8, approx 74 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "hamster9",
+    "type": "hamster",
+    "name": "Dash",
+    "description": "A hamster #9, approx 89 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "hamster10",
+    "type": "hamster",
+    "name": "Bolt",
+    "description": "A hamster #10, approx 22 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "hamster11",
+    "type": "hamster",
+    "name": "Echo",
+    "description": "A hamster #11, approx 66 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "hamster12",
+    "type": "hamster",
+    "name": "Slither",
+    "description": "A hamster #12, approx 95 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "hamster13",
+    "type": "hamster",
+    "name": "Rocky",
+    "description": "A hamster #13, approx 33 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "hamster14",
+    "type": "hamster",
+    "name": "Peanut",
+    "description": "A hamster #14, approx 30 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "hamster15",
+    "type": "hamster",
+    "name": "Dash",
+    "description": "A hamster #15, approx 22 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "hamster16",
+    "type": "hamster",
+    "name": "Leo",
+    "description": "A hamster #16, approx 89 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "hamster17",
+    "type": "hamster",
+    "name": "Poseidon",
+    "description": "A hamster #17, approx 68 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "hamster18",
+    "type": "hamster",
+    "name": "Chai",
+    "description": "A hamster #18, approx 10 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "hamster19",
+    "type": "hamster",
+    "name": "Slither",
+    "description": "A hamster #19, approx 15 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "hamster20",
+    "type": "hamster",
+    "name": "Storm",
+    "description": "A hamster #20, approx 59 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "hamster21",
+    "type": "hamster",
+    "name": "Hermes",
+    "description": "A hamster #21, approx 95 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "hamster22",
+    "type": "hamster",
+    "name": "Simba",
+    "description": "A hamster #22, approx 64 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "hamster23",
+    "type": "hamster",
+    "name": "Tulip",
+    "description": "A hamster #23, approx 26 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "hamster24",
+    "type": "hamster",
+    "name": "Buddy",
+    "description": "A hamster #24, approx 69 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "hamster25",
+    "type": "hamster",
+    "name": "Storm",
+    "description": "A hamster #25, approx 17 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "hamster26",
+    "type": "hamster",
+    "name": "Snowball",
+    "description": "A hamster #26, approx 42 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "hamster27",
+    "type": "hamster",
+    "name": "Banana",
+    "description": "A hamster #27, approx 83 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "hamster28",
+    "type": "hamster",
+    "name": "Snowball",
+    "description": "A hamster #28, approx 48 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "hamster29",
+    "type": "hamster",
+    "name": "Sunny",
+    "description": "A hamster #29, approx 59 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "hamster30",
+    "type": "hamster",
+    "name": "Sky",
+    "description": "A hamster #30, approx 95 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "hamster31",
+    "type": "hamster",
+    "name": "Apollo",
+    "description": "A hamster #31, approx 7 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "hamster32",
+    "type": "hamster",
+    "name": "Zeus",
+    "description": "A hamster #32, approx 18 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "hamster33",
+    "type": "hamster",
+    "name": "Ember",
+    "description": "A hamster #33, approx 70 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "hamster34",
+    "type": "hamster",
+    "name": "Lola",
+    "description": "A hamster #34, approx 14 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "hamster35",
+    "type": "hamster",
+    "name": "Salt",
+    "description": "A hamster #35, approx 31 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "hamster36",
+    "type": "hamster",
+    "name": "George",
+    "description": "A hamster #36, approx 97 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "hamster37",
+    "type": "hamster",
+    "name": "Snowball",
+    "description": "A hamster #37, approx 13 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "hamster38",
+    "type": "hamster",
+    "name": "Daisy",
+    "description": "A hamster #38, approx 8 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "hamster39",
+    "type": "hamster",
+    "name": "Coco",
+    "description": "A hamster #39, approx 57 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "hamster40",
+    "type": "hamster",
+    "name": "Song",
+    "description": "A hamster #40, approx 50 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "hamster41",
+    "type": "hamster",
+    "name": "Jazz",
+    "description": "A hamster #41, approx 89 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "hamster42",
+    "type": "hamster",
+    "name": "Thor",
+    "description": "A hamster #42, approx 95 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "hamster43",
+    "type": "hamster",
+    "name": "Latte",
+    "description": "A hamster #43, approx 61 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "hamster44",
+    "type": "hamster",
+    "name": "Tulip",
+    "description": "A hamster #44, approx 5 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "hamster45",
+    "type": "hamster",
+    "name": "Violet",
+    "description": "A hamster #45, approx 71 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "hamster46",
+    "type": "hamster",
+    "name": "Hermes",
+    "description": "A hamster #46, approx 26 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "hamster47",
+    "type": "hamster",
+    "name": "Zoom",
+    "description": "A hamster #47, approx 48 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "hamster48",
+    "type": "hamster",
+    "name": "Sugar",
+    "description": "A hamster #48, approx 14 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "hamster49",
+    "type": "hamster",
+    "name": "Hermes",
+    "description": "A hamster #49, approx 40 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "hamster50",
+    "type": "hamster",
+    "name": "Coco",
+    "description": "A hamster #50, approx 18 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "turtle1",
+    "type": "turtle",
+    "name": "Artemis",
+    "description": "A turtle #1, approx 39 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "turtle2",
+    "type": "turtle",
+    "name": "Clover",
+    "description": "A turtle #2, approx 83 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "turtle3",
+    "type": "turtle",
+    "name": "Storm",
+    "description": "A turtle #3, approx 76 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "turtle4",
+    "type": "turtle",
+    "name": "Ash",
+    "description": "A turtle #4, approx 76 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "turtle5",
+    "type": "turtle",
+    "name": "Blaze",
+    "description": "A turtle #5, approx 55 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "turtle6",
+    "type": "turtle",
+    "name": "Poseidon",
+    "description": "A turtle #6, approx 31 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "turtle7",
+    "type": "turtle",
+    "name": "Buddy",
+    "description": "A turtle #7, approx 18 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "turtle8",
+    "type": "turtle",
+    "name": "Song",
+    "description": "A turtle #8, approx 33 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "turtle9",
+    "type": "turtle",
+    "name": "Milo",
+    "description": "A turtle #9, approx 6 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "turtle10",
+    "type": "turtle",
+    "name": "Spike",
+    "description": "A turtle #10, approx 6 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "turtle11",
+    "type": "turtle",
+    "name": "Daisy",
+    "description": "A turtle #11, approx 61 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "turtle12",
+    "type": "turtle",
+    "name": "Rocky",
+    "description": "A turtle #12, approx 93 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "turtle13",
+    "type": "turtle",
+    "name": "Storm",
+    "description": "A turtle #13, approx 31 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "turtle14",
+    "type": "turtle",
+    "name": "Simba",
+    "description": "A turtle #14, approx 94 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "turtle15",
+    "type": "turtle",
+    "name": "Poppy",
+    "description": "A turtle #15, approx 44 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "turtle16",
+    "type": "turtle",
+    "name": "Ash",
+    "description": "A turtle #16, approx 88 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "turtle17",
+    "type": "turtle",
+    "name": "Freya",
+    "description": "A turtle #17, approx 13 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "turtle18",
+    "type": "turtle",
+    "name": "Milo",
+    "description": "A turtle #18, approx 62 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "turtle19",
+    "type": "turtle",
+    "name": "Hopper",
+    "description": "A turtle #19, approx 28 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "turtle20",
+    "type": "turtle",
+    "name": "Peanut",
+    "description": "A turtle #20, approx 36 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "turtle21",
+    "type": "turtle",
+    "name": "Ivy",
+    "description": "A turtle #21, approx 94 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "turtle22",
+    "type": "turtle",
+    "name": "Kiwi",
+    "description": "A turtle #22, approx 10 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "turtle23",
+    "type": "turtle",
+    "name": "Sunny",
+    "description": "A turtle #23, approx 84 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "turtle24",
+    "type": "turtle",
+    "name": "Latte",
+    "description": "A turtle #24, approx 58 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "turtle25",
+    "type": "turtle",
+    "name": "Nala",
+    "description": "A turtle #25, approx 94 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "turtle26",
+    "type": "turtle",
+    "name": "Brownie",
+    "description": "A turtle #26, approx 98 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "turtle27",
+    "type": "turtle",
+    "name": "Chai",
+    "description": "A turtle #27, approx 34 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "turtle28",
+    "type": "turtle",
+    "name": "Song",
+    "description": "A turtle #28, approx 16 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "turtle29",
+    "type": "turtle",
+    "name": "Oakley",
+    "description": "A turtle #29, approx 41 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "turtle30",
+    "type": "turtle",
+    "name": "Echo",
+    "description": "A turtle #30, approx 6 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "turtle31",
+    "type": "turtle",
+    "name": "Chico",
+    "description": "A turtle #31, approx 44 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "turtle32",
+    "type": "turtle",
+    "name": "Thor",
+    "description": "A turtle #32, approx 34 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "turtle33",
+    "type": "turtle",
+    "name": "Oakley",
+    "description": "A turtle #33, approx 69 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "turtle34",
+    "type": "turtle",
+    "name": "Cookie",
+    "description": "A turtle #34, approx 30 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "turtle35",
+    "type": "turtle",
+    "name": "Ash",
+    "description": "A turtle #35, approx 64 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "turtle36",
+    "type": "turtle",
+    "name": "Willow",
+    "description": "A turtle #36, approx 33 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "turtle37",
+    "type": "turtle",
+    "name": "Cloud",
+    "description": "A turtle #37, approx 58 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "turtle38",
+    "type": "turtle",
+    "name": "Rocky",
+    "description": "A turtle #38, approx 31 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "turtle39",
+    "type": "turtle",
+    "name": "Daisy",
+    "description": "A turtle #39, approx 73 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "turtle40",
+    "type": "turtle",
+    "name": "Blaze",
+    "description": "A turtle #40, approx 82 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "turtle41",
+    "type": "turtle",
+    "name": "Ash",
+    "description": "A turtle #41, approx 34 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "turtle42",
+    "type": "turtle",
+    "name": "Ruby",
+    "description": "A turtle #42, approx 86 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "turtle43",
+    "type": "turtle",
+    "name": "Hopper",
+    "description": "A turtle #43, approx 46 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "turtle44",
+    "type": "turtle",
+    "name": "Kiwi",
+    "description": "A turtle #44, approx 76 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "turtle45",
+    "type": "turtle",
+    "name": "Chico",
+    "description": "A turtle #45, approx 2 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "turtle46",
+    "type": "turtle",
+    "name": "Croak",
+    "description": "A turtle #46, approx 7 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "turtle47",
+    "type": "turtle",
+    "name": "Sunny",
+    "description": "A turtle #47, approx 20 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "turtle48",
+    "type": "turtle",
+    "name": "Ivy",
+    "description": "A turtle #48, approx 6 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "turtle49",
+    "type": "turtle",
+    "name": "Finn",
+    "description": "A turtle #49, approx 35 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "turtle50",
+    "type": "turtle",
+    "name": "Polly",
+    "description": "A turtle #50, approx 80 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "snake1",
+    "type": "snake",
+    "name": "Artemis",
+    "description": "A snake #1, approx 95 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "snake2",
+    "type": "snake",
+    "name": "Oscar",
+    "description": "A snake #2, approx 70 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "snake3",
+    "type": "snake",
+    "name": "Bolt",
+    "description": "A snake #3, approx 79 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "snake4",
+    "type": "snake",
+    "name": "Apollo",
+    "description": "A snake #4, approx 10 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "snake5",
+    "type": "snake",
+    "name": "Slither",
+    "description": "A snake #5, approx 39 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "snake6",
+    "type": "snake",
+    "name": "Bella",
+    "description": "A snake #6, approx 84 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "snake7",
+    "type": "snake",
+    "name": "Ivy",
+    "description": "A snake #7, approx 84 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "snake8",
+    "type": "snake",
+    "name": "Salt",
+    "description": "A snake #8, approx 75 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "snake9",
+    "type": "snake",
+    "name": "Ruby",
+    "description": "A snake #9, approx 60 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "snake10",
+    "type": "snake",
+    "name": "Cookie",
+    "description": "A snake #10, approx 86 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "snake11",
+    "type": "snake",
+    "name": "Sunny",
+    "description": "A snake #11, approx 50 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "snake12",
+    "type": "snake",
+    "name": "Willow",
+    "description": "A snake #12, approx 69 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "snake13",
+    "type": "snake",
+    "name": "River",
+    "description": "A snake #13, approx 78 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "snake14",
+    "type": "snake",
+    "name": "Harmony",
+    "description": "A snake #14, approx 80 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "snake15",
+    "type": "snake",
+    "name": "Goldie",
+    "description": "A snake #15, approx 43 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "snake16",
+    "type": "snake",
+    "name": "Blaze",
+    "description": "A snake #16, approx 73 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "snake17",
+    "type": "snake",
+    "name": "Melody",
+    "description": "A snake #17, approx 85 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "snake18",
+    "type": "snake",
+    "name": "Jazz",
+    "description": "A snake #18, approx 38 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "snake19",
+    "type": "snake",
+    "name": "Milo",
+    "description": "A snake #19, approx 98 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "snake20",
+    "type": "snake",
+    "name": "Hazel",
+    "description": "A snake #20, approx 5 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "snake21",
+    "type": "snake",
+    "name": "Latte",
+    "description": "A snake #21, approx 66 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "snake22",
+    "type": "snake",
+    "name": "Rose",
+    "description": "A snake #22, approx 56 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "snake23",
+    "type": "snake",
+    "name": "Rain",
+    "description": "A snake #23, approx 94 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "snake24",
+    "type": "snake",
+    "name": "Orchid",
+    "description": "A snake #24, approx 45 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "snake25",
+    "type": "snake",
+    "name": "Kiwi",
+    "description": "A snake #25, approx 9 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "snake26",
+    "type": "snake",
+    "name": "Cookie",
+    "description": "A snake #26, approx 42 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "snake27",
+    "type": "snake",
+    "name": "Rocky",
+    "description": "A snake #27, approx 40 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "snake28",
+    "type": "snake",
+    "name": "Daisy",
+    "description": "A snake #28, approx 40 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "snake29",
+    "type": "snake",
+    "name": "Hermes",
+    "description": "A snake #29, approx 58 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "snake30",
+    "type": "snake",
+    "name": "Ruby",
+    "description": "A snake #30, approx 75 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "snake31",
+    "type": "snake",
+    "name": "Charlie",
+    "description": "A snake #31, approx 94 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "snake32",
+    "type": "snake",
+    "name": "Ivy",
+    "description": "A snake #32, approx 26 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "snake33",
+    "type": "snake",
+    "name": "Willow",
+    "description": "A snake #33, approx 54 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "snake34",
+    "type": "snake",
+    "name": "Lola",
+    "description": "A snake #34, approx 37 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "snake35",
+    "type": "snake",
+    "name": "Coco",
+    "description": "A snake #35, approx 50 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "snake36",
+    "type": "snake",
+    "name": "Ember",
+    "description": "A snake #36, approx 66 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "snake37",
+    "type": "snake",
+    "name": "Simba",
+    "description": "A snake #37, approx 51 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "snake38",
+    "type": "snake",
+    "name": "Buddy",
+    "description": "A snake #38, approx 97 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "snake39",
+    "type": "snake",
+    "name": "Peanut",
+    "description": "A snake #39, approx 25 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "snake40",
+    "type": "snake",
+    "name": "Storm",
+    "description": "A snake #40, approx 7 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "snake41",
+    "type": "snake",
+    "name": "Whisper",
+    "description": "A snake #41, approx 41 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "snake42",
+    "type": "snake",
+    "name": "Thor",
+    "description": "A snake #42, approx 75 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "snake43",
+    "type": "snake",
+    "name": "Flash",
+    "description": "A snake #43, approx 48 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "snake44",
+    "type": "snake",
+    "name": "Splash",
+    "description": "A snake #44, approx 23 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "snake45",
+    "type": "snake",
+    "name": "Maple",
+    "description": "A snake #45, approx 22 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "snake46",
+    "type": "snake",
+    "name": "Luna",
+    "description": "A snake #46, approx 83 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "snake47",
+    "type": "snake",
+    "name": "Lola",
+    "description": "A snake #47, approx 77 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "snake48",
+    "type": "snake",
+    "name": "Bubbles",
+    "description": "A snake #48, approx 96 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "snake49",
+    "type": "snake",
+    "name": "Hazel",
+    "description": "A snake #49, approx 89 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "snake50",
+    "type": "snake",
+    "name": "Thor",
+    "description": "A snake #50, approx 20 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "guinea pig1",
+    "type": "guinea pig",
+    "name": "Venus",
+    "description": "A guinea pig #1, approx 43 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "guinea pig2",
+    "type": "guinea pig",
+    "name": "Freya",
+    "description": "A guinea pig #2, approx 5 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "guinea pig3",
+    "type": "guinea pig",
+    "name": "Sugar",
+    "description": "A guinea pig #3, approx 16 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "guinea pig4",
+    "type": "guinea pig",
+    "name": "Spike",
+    "description": "A guinea pig #4, approx 5 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "guinea pig5",
+    "type": "guinea pig",
+    "name": "Daisy",
+    "description": "A guinea pig #5, approx 51 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "guinea pig6",
+    "type": "guinea pig",
+    "name": "Ember",
+    "description": "A guinea pig #6, approx 73 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "guinea pig7",
+    "type": "guinea pig",
+    "name": "Honey",
+    "description": "A guinea pig #7, approx 36 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "guinea pig8",
+    "type": "guinea pig",
+    "name": "Bubbles",
+    "description": "A guinea pig #8, approx 56 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "guinea pig9",
+    "type": "guinea pig",
+    "name": "Rocky",
+    "description": "A guinea pig #9, approx 89 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "guinea pig10",
+    "type": "guinea pig",
+    "name": "Rain",
+    "description": "A guinea pig #10, approx 3 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "guinea pig11",
+    "type": "guinea pig",
+    "name": "Peanut",
+    "description": "A guinea pig #11, approx 94 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "guinea pig12",
+    "type": "guinea pig",
+    "name": "Honey",
+    "description": "A guinea pig #12, approx 39 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "guinea pig13",
+    "type": "guinea pig",
+    "name": "Athena",
+    "description": "A guinea pig #13, approx 62 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "guinea pig14",
+    "type": "guinea pig",
+    "name": "Charlie",
+    "description": "A guinea pig #14, approx 50 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "guinea pig15",
+    "type": "guinea pig",
+    "name": "Hermes",
+    "description": "A guinea pig #15, approx 97 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "guinea pig16",
+    "type": "guinea pig",
+    "name": "Clover",
+    "description": "A guinea pig #16, approx 73 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "guinea pig17",
+    "type": "guinea pig",
+    "name": "Ruby",
+    "description": "A guinea pig #17, approx 83 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "guinea pig18",
+    "type": "guinea pig",
+    "name": "River",
+    "description": "A guinea pig #18, approx 99 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "guinea pig19",
+    "type": "guinea pig",
+    "name": "Sky",
+    "description": "A guinea pig #19, approx 49 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "guinea pig20",
+    "type": "guinea pig",
+    "name": "Clover",
+    "description": "A guinea pig #20, approx 68 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "guinea pig21",
+    "type": "guinea pig",
+    "name": "Fern",
+    "description": "A guinea pig #21, approx 23 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "guinea pig22",
+    "type": "guinea pig",
+    "name": "Lily",
+    "description": "A guinea pig #22, approx 52 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "guinea pig23",
+    "type": "guinea pig",
+    "name": "Echo",
+    "description": "A guinea pig #23, approx 30 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "guinea pig24",
+    "type": "guinea pig",
+    "name": "Hera",
+    "description": "A guinea pig #24, approx 75 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "guinea pig25",
+    "type": "guinea pig",
+    "name": "George",
+    "description": "A guinea pig #25, approx 88 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "guinea pig26",
+    "type": "guinea pig",
+    "name": "Muffin",
+    "description": "A guinea pig #26, approx 7 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "guinea pig27",
+    "type": "guinea pig",
+    "name": "Ember",
+    "description": "A guinea pig #27, approx 16 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "guinea pig28",
+    "type": "guinea pig",
+    "name": "Violet",
+    "description": "A guinea pig #28, approx 82 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "guinea pig29",
+    "type": "guinea pig",
+    "name": "Rocky",
+    "description": "A guinea pig #29, approx 15 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "guinea pig30",
+    "type": "guinea pig",
+    "name": "Luna",
+    "description": "A guinea pig #30, approx 90 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "guinea pig31",
+    "type": "guinea pig",
+    "name": "Maple",
+    "description": "A guinea pig #31, approx 55 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "guinea pig32",
+    "type": "guinea pig",
+    "name": "Daisy",
+    "description": "A guinea pig #32, approx 42 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "guinea pig33",
+    "type": "guinea pig",
+    "name": "Hera",
+    "description": "A guinea pig #33, approx 54 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "guinea pig34",
+    "type": "guinea pig",
+    "name": "Simba",
+    "description": "A guinea pig #34, approx 94 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "guinea pig35",
+    "type": "guinea pig",
+    "name": "Latte",
+    "description": "A guinea pig #35, approx 3 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "guinea pig36",
+    "type": "guinea pig",
+    "name": "Venus",
+    "description": "A guinea pig #36, approx 75 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "guinea pig37",
+    "type": "guinea pig",
+    "name": "Buddy",
+    "description": "A guinea pig #37, approx 90 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "guinea pig38",
+    "type": "guinea pig",
+    "name": "Apollo",
+    "description": "A guinea pig #38, approx 31 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "guinea pig39",
+    "type": "guinea pig",
+    "name": "Oakley",
+    "description": "A guinea pig #39, approx 97 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "guinea pig40",
+    "type": "guinea pig",
+    "name": "Hera",
+    "description": "A guinea pig #40, approx 78 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "guinea pig41",
+    "type": "guinea pig",
+    "name": "Banana",
+    "description": "A guinea pig #41, approx 49 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "guinea pig42",
+    "type": "guinea pig",
+    "name": "Finn",
+    "description": "A guinea pig #42, approx 32 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "guinea pig43",
+    "type": "guinea pig",
+    "name": "Venus",
+    "description": "A guinea pig #43, approx 25 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "guinea pig44",
+    "type": "guinea pig",
+    "name": "Shelly",
+    "description": "A guinea pig #44, approx 31 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "guinea pig45",
+    "type": "guinea pig",
+    "name": "Simba",
+    "description": "A guinea pig #45, approx 87 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "guinea pig46",
+    "type": "guinea pig",
+    "name": "Echo",
+    "description": "A guinea pig #46, approx 57 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "guinea pig47",
+    "type": "guinea pig",
+    "name": "Ember",
+    "description": "A guinea pig #47, approx 10 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "guinea pig48",
+    "type": "guinea pig",
+    "name": "River",
+    "description": "A guinea pig #48, approx 45 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "guinea pig49",
+    "type": "guinea pig",
+    "name": "Artemis",
+    "description": "A guinea pig #49, approx 20 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "guinea pig50",
+    "type": "guinea pig",
+    "name": "Mocha",
+    "description": "A guinea pig #50, approx 64 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "lizard1",
+    "type": "lizard",
+    "name": "Apollo",
+    "description": "A lizard #1, approx 84 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "lizard2",
+    "type": "lizard",
+    "name": "Ember",
+    "description": "A lizard #2, approx 81 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "lizard3",
+    "type": "lizard",
+    "name": "Peanut",
+    "description": "A lizard #3, approx 92 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "lizard4",
+    "type": "lizard",
+    "name": "Apollo",
+    "description": "A lizard #4, approx 43 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "lizard5",
+    "type": "lizard",
+    "name": "Apollo",
+    "description": "A lizard #5, approx 77 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "lizard6",
+    "type": "lizard",
+    "name": "Kiwi",
+    "description": "A lizard #6, approx 47 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "lizard7",
+    "type": "lizard",
+    "name": "Hera",
+    "description": "A lizard #7, approx 35 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "lizard8",
+    "type": "lizard",
+    "name": "Jazz",
+    "description": "A lizard #8, approx 69 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "lizard9",
+    "type": "lizard",
+    "name": "Muffin",
+    "description": "A lizard #9, approx 40 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "lizard10",
+    "type": "lizard",
+    "name": "Rocky",
+    "description": "A lizard #10, approx 51 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "lizard11",
+    "type": "lizard",
+    "name": "Cookie",
+    "description": "A lizard #11, approx 41 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "lizard12",
+    "type": "lizard",
+    "name": "Tiger",
+    "description": "A lizard #12, approx 55 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "lizard13",
+    "type": "lizard",
+    "name": "Hopper",
+    "description": "A lizard #13, approx 20 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "lizard14",
+    "type": "lizard",
+    "name": "Storm",
+    "description": "A lizard #14, approx 8 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "lizard15",
+    "type": "lizard",
+    "name": "Bolt",
+    "description": "A lizard #15, approx 29 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "lizard16",
+    "type": "lizard",
+    "name": "Peanut",
+    "description": "A lizard #16, approx 15 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "lizard17",
+    "type": "lizard",
+    "name": "Whisper",
+    "description": "A lizard #17, approx 97 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "lizard18",
+    "type": "lizard",
+    "name": "Venus",
+    "description": "A lizard #18, approx 56 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "lizard19",
+    "type": "lizard",
+    "name": "Maple",
+    "description": "A lizard #19, approx 53 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "lizard20",
+    "type": "lizard",
+    "name": "Maple",
+    "description": "A lizard #20, approx 9 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "lizard21",
+    "type": "lizard",
+    "name": "Simba",
+    "description": "A lizard #21, approx 12 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "lizard22",
+    "type": "lizard",
+    "name": "Rocky",
+    "description": "A lizard #22, approx 6 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "lizard23",
+    "type": "lizard",
+    "name": "Oakley",
+    "description": "A lizard #23, approx 70 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "lizard24",
+    "type": "lizard",
+    "name": "Cloud",
+    "description": "A lizard #24, approx 7 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "lizard25",
+    "type": "lizard",
+    "name": "Mocha",
+    "description": "A lizard #25, approx 98 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "lizard26",
+    "type": "lizard",
+    "name": "Melody",
+    "description": "A lizard #26, approx 51 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "lizard27",
+    "type": "lizard",
+    "name": "Bolt",
+    "description": "A lizard #27, approx 22 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "lizard28",
+    "type": "lizard",
+    "name": "Finn",
+    "description": "A lizard #28, approx 27 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "lizard29",
+    "type": "lizard",
+    "name": "Finn",
+    "description": "A lizard #29, approx 86 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "lizard30",
+    "type": "lizard",
+    "name": "Jazz",
+    "description": "A lizard #30, approx 91 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "lizard31",
+    "type": "lizard",
+    "name": "Leo",
+    "description": "A lizard #31, approx 97 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "lizard32",
+    "type": "lizard",
+    "name": "Latte",
+    "description": "A lizard #32, approx 35 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "lizard33",
+    "type": "lizard",
+    "name": "Croak",
+    "description": "A lizard #33, approx 41 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "lizard34",
+    "type": "lizard",
+    "name": "Rain",
+    "description": "A lizard #34, approx 88 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "lizard35",
+    "type": "lizard",
+    "name": "Goldie",
+    "description": "A lizard #35, approx 78 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "lizard36",
+    "type": "lizard",
+    "name": "Goldie",
+    "description": "A lizard #36, approx 76 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "lizard37",
+    "type": "lizard",
+    "name": "Thor",
+    "description": "A lizard #37, approx 12 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "lizard38",
+    "type": "lizard",
+    "name": "Daisy",
+    "description": "A lizard #38, approx 73 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "lizard39",
+    "type": "lizard",
+    "name": "Hopper",
+    "description": "A lizard #39, approx 48 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "lizard40",
+    "type": "lizard",
+    "name": "Violet",
+    "description": "A lizard #40, approx 69 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "lizard41",
+    "type": "lizard",
+    "name": "Hazel",
+    "description": "A lizard #41, approx 48 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "lizard42",
+    "type": "lizard",
+    "name": "Goldie",
+    "description": "A lizard #42, approx 86 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "lizard43",
+    "type": "lizard",
+    "name": "Kiwi",
+    "description": "A lizard #43, approx 97 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "lizard44",
+    "type": "lizard",
+    "name": "Rocky",
+    "description": "A lizard #44, approx 50 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "lizard45",
+    "type": "lizard",
+    "name": "Bella",
+    "description": "A lizard #45, approx 7 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "lizard46",
+    "type": "lizard",
+    "name": "Blaze",
+    "description": "A lizard #46, approx 85 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "lizard47",
+    "type": "lizard",
+    "name": "Cloud",
+    "description": "A lizard #47, approx 88 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "lizard48",
+    "type": "lizard",
+    "name": "River",
+    "description": "A lizard #48, approx 33 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "lizard49",
+    "type": "lizard",
+    "name": "Fern",
+    "description": "A lizard #49, approx 72 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "lizard50",
+    "type": "lizard",
+    "name": "Poseidon",
+    "description": "A lizard #50, approx 28 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "horse1",
+    "type": "horse",
+    "name": "Sky",
+    "description": "A horse #1, approx 73 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "horse2",
+    "type": "horse",
+    "name": "Violet",
+    "description": "A horse #2, approx 38 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "horse3",
+    "type": "horse",
+    "name": "Charlie",
+    "description": "A horse #3, approx 65 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "horse4",
+    "type": "horse",
+    "name": "Chico",
+    "description": "A horse #4, approx 41 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "horse5",
+    "type": "horse",
+    "name": "Echo",
+    "description": "A horse #5, approx 63 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "horse6",
+    "type": "horse",
+    "name": "Buddy",
+    "description": "A horse #6, approx 22 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "horse7",
+    "type": "horse",
+    "name": "Hera",
+    "description": "A horse #7, approx 64 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "horse8",
+    "type": "horse",
+    "name": "Athena",
+    "description": "A horse #8, approx 18 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "horse9",
+    "type": "horse",
+    "name": "Muffin",
+    "description": "A horse #9, approx 71 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "horse10",
+    "type": "horse",
+    "name": "Muffin",
+    "description": "A horse #10, approx 45 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "horse11",
+    "type": "horse",
+    "name": "Oakley",
+    "description": "A horse #11, approx 30 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "horse12",
+    "type": "horse",
+    "name": "Bolt",
+    "description": "A horse #12, approx 41 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "horse13",
+    "type": "horse",
+    "name": "Chico",
+    "description": "A horse #13, approx 57 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "horse14",
+    "type": "horse",
+    "name": "Lily",
+    "description": "A horse #14, approx 36 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "horse15",
+    "type": "horse",
+    "name": "Peanut",
+    "description": "A horse #15, approx 17 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "horse16",
+    "type": "horse",
+    "name": "Apollo",
+    "description": "A horse #16, approx 55 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "horse17",
+    "type": "horse",
+    "name": "Oakley",
+    "description": "A horse #17, approx 30 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "horse18",
+    "type": "horse",
+    "name": "Blaze",
+    "description": "A horse #18, approx 74 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "horse19",
+    "type": "horse",
+    "name": "Bolt",
+    "description": "A horse #19, approx 24 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "horse20",
+    "type": "horse",
+    "name": "Poseidon",
+    "description": "A horse #20, approx 92 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "horse21",
+    "type": "horse",
+    "name": "Flash",
+    "description": "A horse #21, approx 78 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "horse22",
+    "type": "horse",
+    "name": "Tulip",
+    "description": "A horse #22, approx 44 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "horse23",
+    "type": "horse",
+    "name": "Oscar",
+    "description": "A horse #23, approx 30 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "horse24",
+    "type": "horse",
+    "name": "Echo",
+    "description": "A horse #24, approx 53 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "horse25",
+    "type": "horse",
+    "name": "Storm",
+    "description": "A horse #25, approx 65 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "horse26",
+    "type": "horse",
+    "name": "Zoom",
+    "description": "A horse #26, approx 25 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "horse27",
+    "type": "horse",
+    "name": "Ash",
+    "description": "A horse #27, approx 39 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "horse28",
+    "type": "horse",
+    "name": "Sky",
+    "description": "A horse #28, approx 89 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "horse29",
+    "type": "horse",
+    "name": "Mocha",
+    "description": "A horse #29, approx 3 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "horse30",
+    "type": "horse",
+    "name": "Coco",
+    "description": "A horse #30, approx 52 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "horse31",
+    "type": "horse",
+    "name": "Rain",
+    "description": "A horse #31, approx 47 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "horse32",
+    "type": "horse",
+    "name": "Artemis",
+    "description": "A horse #32, approx 56 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "horse33",
+    "type": "horse",
+    "name": "Finn",
+    "description": "A horse #33, approx 91 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "horse34",
+    "type": "horse",
+    "name": "Chai",
+    "description": "A horse #34, approx 92 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "horse35",
+    "type": "horse",
+    "name": "Harmony",
+    "description": "A horse #35, approx 3 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "horse36",
+    "type": "horse",
+    "name": "Sky",
+    "description": "A horse #36, approx 53 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "horse37",
+    "type": "horse",
+    "name": "George",
+    "description": "A horse #37, approx 86 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "horse38",
+    "type": "horse",
+    "name": "Tulip",
+    "description": "A horse #38, approx 44 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "horse39",
+    "type": "horse",
+    "name": "Peanut",
+    "description": "A horse #39, approx 68 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "horse40",
+    "type": "horse",
+    "name": "Sugar",
+    "description": "A horse #40, approx 84 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "horse41",
+    "type": "horse",
+    "name": "Shelly",
+    "description": "A horse #41, approx 72 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "horse42",
+    "type": "horse",
+    "name": "Echo",
+    "description": "A horse #42, approx 89 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "horse43",
+    "type": "horse",
+    "name": "Ash",
+    "description": "A horse #43, approx 70 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "horse44",
+    "type": "horse",
+    "name": "Harmony",
+    "description": "A horse #44, approx 79 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "horse45",
+    "type": "horse",
+    "name": "Poppy",
+    "description": "A horse #45, approx 14 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "horse46",
+    "type": "horse",
+    "name": "Rocky",
+    "description": "A horse #46, approx 85 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "horse47",
+    "type": "horse",
+    "name": "Luna",
+    "description": "A horse #47, approx 96 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "horse48",
+    "type": "horse",
+    "name": "Snowball",
+    "description": "A horse #48, approx 88 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "horse49",
+    "type": "horse",
+    "name": "Splash",
+    "description": "A horse #49, approx 22 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "horse50",
+    "type": "horse",
+    "name": "Echo",
+    "description": "A horse #50, approx 19 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "cow1",
+    "type": "cow",
+    "name": "Lola",
+    "description": "A cow #1, approx 81 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "cow2",
+    "type": "cow",
+    "name": "Nala",
+    "description": "A cow #2, approx 58 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "cow3",
+    "type": "cow",
+    "name": "Lola",
+    "description": "A cow #3, approx 20 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "cow4",
+    "type": "cow",
+    "name": "Thumper",
+    "description": "A cow #4, approx 93 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "cow5",
+    "type": "cow",
+    "name": "George",
+    "description": "A cow #5, approx 31 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "cow6",
+    "type": "cow",
+    "name": "Croak",
+    "description": "A cow #6, approx 94 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "cow7",
+    "type": "cow",
+    "name": "Song",
+    "description": "A cow #7, approx 12 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "cow8",
+    "type": "cow",
+    "name": "Tiger",
+    "description": "A cow #8, approx 53 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "cow9",
+    "type": "cow",
+    "name": "Athena",
+    "description": "A cow #9, approx 27 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "cow10",
+    "type": "cow",
+    "name": "Salt",
+    "description": "A cow #10, approx 25 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "cow11",
+    "type": "cow",
+    "name": "Song",
+    "description": "A cow #11, approx 13 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "cow12",
+    "type": "cow",
+    "name": "Charlie",
+    "description": "A cow #12, approx 84 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "cow13",
+    "type": "cow",
+    "name": "Kiwi",
+    "description": "A cow #13, approx 78 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "cow14",
+    "type": "cow",
+    "name": "Brownie",
+    "description": "A cow #14, approx 60 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "cow15",
+    "type": "cow",
+    "name": "Flash",
+    "description": "A cow #15, approx 27 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "cow16",
+    "type": "cow",
+    "name": "Finn",
+    "description": "A cow #16, approx 19 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "cow17",
+    "type": "cow",
+    "name": "Rain",
+    "description": "A cow #17, approx 98 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "cow18",
+    "type": "cow",
+    "name": "George",
+    "description": "A cow #18, approx 16 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "cow19",
+    "type": "cow",
+    "name": "Daisy",
+    "description": "A cow #19, approx 67 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "cow20",
+    "type": "cow",
+    "name": "Song",
+    "description": "A cow #20, approx 79 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "cow21",
+    "type": "cow",
+    "name": "Sugar",
+    "description": "A cow #21, approx 54 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "cow22",
+    "type": "cow",
+    "name": "Peanut",
+    "description": "A cow #22, approx 3 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "cow23",
+    "type": "cow",
+    "name": "Ember",
+    "description": "A cow #23, approx 31 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "cow24",
+    "type": "cow",
+    "name": "Hazel",
+    "description": "A cow #24, approx 63 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "cow25",
+    "type": "cow",
+    "name": "Athena",
+    "description": "A cow #25, approx 84 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "cow26",
+    "type": "cow",
+    "name": "Bolt",
+    "description": "A cow #26, approx 77 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "cow27",
+    "type": "cow",
+    "name": "Maple",
+    "description": "A cow #27, approx 95 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "cow28",
+    "type": "cow",
+    "name": "Athena",
+    "description": "A cow #28, approx 79 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "cow29",
+    "type": "cow",
+    "name": "Simba",
+    "description": "A cow #29, approx 62 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "cow30",
+    "type": "cow",
+    "name": "Blaze",
+    "description": "A cow #30, approx 64 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "cow31",
+    "type": "cow",
+    "name": "Tulip",
+    "description": "A cow #31, approx 91 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "cow32",
+    "type": "cow",
+    "name": "Sugar",
+    "description": "A cow #32, approx 75 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "cow33",
+    "type": "cow",
+    "name": "Zoom",
+    "description": "A cow #33, approx 99 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "cow34",
+    "type": "cow",
+    "name": "Buddy",
+    "description": "A cow #34, approx 48 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "cow35",
+    "type": "cow",
+    "name": "Polly",
+    "description": "A cow #35, approx 19 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "cow36",
+    "type": "cow",
+    "name": "Muffin",
+    "description": "A cow #36, approx 55 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "cow37",
+    "type": "cow",
+    "name": "Ash",
+    "description": "A cow #37, approx 86 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "cow38",
+    "type": "cow",
+    "name": "Zeus",
+    "description": "A cow #38, approx 70 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "cow39",
+    "type": "cow",
+    "name": "Dash",
+    "description": "A cow #39, approx 73 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "cow40",
+    "type": "cow",
+    "name": "Hopper",
+    "description": "A cow #40, approx 51 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "cow41",
+    "type": "cow",
+    "name": "Muffin",
+    "description": "A cow #41, approx 39 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "cow42",
+    "type": "cow",
+    "name": "Chai",
+    "description": "A cow #42, approx 90 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "cow43",
+    "type": "cow",
+    "name": "Sky",
+    "description": "A cow #43, approx 49 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "cow44",
+    "type": "cow",
+    "name": "Sunny",
+    "description": "A cow #44, approx 61 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "cow45",
+    "type": "cow",
+    "name": "Rain",
+    "description": "A cow #45, approx 10 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "cow46",
+    "type": "cow",
+    "name": "Goldie",
+    "description": "A cow #46, approx 68 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "cow47",
+    "type": "cow",
+    "name": "Bella",
+    "description": "A cow #47, approx 3 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "cow48",
+    "type": "cow",
+    "name": "Harmony",
+    "description": "A cow #48, approx 94 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "cow49",
+    "type": "cow",
+    "name": "Splash",
+    "description": "A cow #49, approx 79 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "cow50",
+    "type": "cow",
+    "name": "Kiwi",
+    "description": "A cow #50, approx 89 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "goat1",
+    "type": "goat",
+    "name": "Shadow",
+    "description": "A goat #1, approx 25 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "goat2",
+    "type": "goat",
+    "name": "Lily",
+    "description": "A goat #2, approx 74 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "goat3",
+    "type": "goat",
+    "name": "Melody",
+    "description": "A goat #3, approx 15 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "goat4",
+    "type": "goat",
+    "name": "Oakley",
+    "description": "A goat #4, approx 88 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "goat5",
+    "type": "goat",
+    "name": "Poseidon",
+    "description": "A goat #5, approx 85 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "goat6",
+    "type": "goat",
+    "name": "Pepper",
+    "description": "A goat #6, approx 70 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "goat7",
+    "type": "goat",
+    "name": "Rose",
+    "description": "A goat #7, approx 12 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "goat8",
+    "type": "goat",
+    "name": "Goldie",
+    "description": "A goat #8, approx 68 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "goat9",
+    "type": "goat",
+    "name": "Slither",
+    "description": "A goat #9, approx 44 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "goat10",
+    "type": "goat",
+    "name": "Tiger",
+    "description": "A goat #10, approx 20 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "goat11",
+    "type": "goat",
+    "name": "Lily",
+    "description": "A goat #11, approx 69 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "goat12",
+    "type": "goat",
+    "name": "Rocky",
+    "description": "A goat #12, approx 55 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "goat13",
+    "type": "goat",
+    "name": "Bella",
+    "description": "A goat #13, approx 51 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "goat14",
+    "type": "goat",
+    "name": "Fern",
+    "description": "A goat #14, approx 92 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "goat15",
+    "type": "goat",
+    "name": "Oakley",
+    "description": "A goat #15, approx 73 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "goat16",
+    "type": "goat",
+    "name": "Thor",
+    "description": "A goat #16, approx 28 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "goat17",
+    "type": "goat",
+    "name": "Lily",
+    "description": "A goat #17, approx 77 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "goat18",
+    "type": "goat",
+    "name": "Leo",
+    "description": "A goat #18, approx 64 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "goat19",
+    "type": "goat",
+    "name": "Ivy",
+    "description": "A goat #19, approx 59 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "goat20",
+    "type": "goat",
+    "name": "Chai",
+    "description": "A goat #20, approx 43 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "goat21",
+    "type": "goat",
+    "name": "Leo",
+    "description": "A goat #21, approx 12 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "goat22",
+    "type": "goat",
+    "name": "Song",
+    "description": "A goat #22, approx 7 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "goat23",
+    "type": "goat",
+    "name": "Athena",
+    "description": "A goat #23, approx 33 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "goat24",
+    "type": "goat",
+    "name": "Snowball",
+    "description": "A goat #24, approx 63 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "goat25",
+    "type": "goat",
+    "name": "Chai",
+    "description": "A goat #25, approx 7 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "goat26",
+    "type": "goat",
+    "name": "Hazel",
+    "description": "A goat #26, approx 43 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "goat27",
+    "type": "goat",
+    "name": "Orchid",
+    "description": "A goat #27, approx 33 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "goat28",
+    "type": "goat",
+    "name": "George",
+    "description": "A goat #28, approx 3 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "goat29",
+    "type": "goat",
+    "name": "Bella",
+    "description": "A goat #29, approx 83 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "goat30",
+    "type": "goat",
+    "name": "Echo",
+    "description": "A goat #30, approx 86 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "goat31",
+    "type": "goat",
+    "name": "Ivy",
+    "description": "A goat #31, approx 19 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "goat32",
+    "type": "goat",
+    "name": "Daisy",
+    "description": "A goat #32, approx 32 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "goat33",
+    "type": "goat",
+    "name": "Bolt",
+    "description": "A goat #33, approx 59 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "goat34",
+    "type": "goat",
+    "name": "Shelly",
+    "description": "A goat #34, approx 73 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "goat35",
+    "type": "goat",
+    "name": "Hazel",
+    "description": "A goat #35, approx 43 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "goat36",
+    "type": "goat",
+    "name": "Nala",
+    "description": "A goat #36, approx 29 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "goat37",
+    "type": "goat",
+    "name": "Zoom",
+    "description": "A goat #37, approx 99 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "goat38",
+    "type": "goat",
+    "name": "Hermes",
+    "description": "A goat #38, approx 78 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "goat39",
+    "type": "goat",
+    "name": "Banana",
+    "description": "A goat #39, approx 68 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "goat40",
+    "type": "goat",
+    "name": "Hazel",
+    "description": "A goat #40, approx 56 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "goat41",
+    "type": "goat",
+    "name": "Snowball",
+    "description": "A goat #41, approx 93 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "goat42",
+    "type": "goat",
+    "name": "Simba",
+    "description": "A goat #42, approx 92 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "goat43",
+    "type": "goat",
+    "name": "Salt",
+    "description": "A goat #43, approx 8 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "goat44",
+    "type": "goat",
+    "name": "Jazz",
+    "description": "A goat #44, approx 90 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "goat45",
+    "type": "goat",
+    "name": "Shelly",
+    "description": "A goat #45, approx 41 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "goat46",
+    "type": "goat",
+    "name": "Bolt",
+    "description": "A goat #46, approx 48 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "goat47",
+    "type": "goat",
+    "name": "Daisy",
+    "description": "A goat #47, approx 14 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "goat48",
+    "type": "goat",
+    "name": "Lola",
+    "description": "A goat #48, approx 12 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "goat49",
+    "type": "goat",
+    "name": "Pepper",
+    "description": "A goat #49, approx 38 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "goat50",
+    "type": "goat",
+    "name": "Tulip",
+    "description": "A goat #50, approx 24 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "sheep1",
+    "type": "sheep",
+    "name": "Flash",
+    "description": "A sheep #1, approx 17 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "sheep2",
+    "type": "sheep",
+    "name": "Poppy",
+    "description": "A sheep #2, approx 11 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "sheep3",
+    "type": "sheep",
+    "name": "Spike",
+    "description": "A sheep #3, approx 62 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "sheep4",
+    "type": "sheep",
+    "name": "Flash",
+    "description": "A sheep #4, approx 17 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "sheep5",
+    "type": "sheep",
+    "name": "Echo",
+    "description": "A sheep #5, approx 66 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "sheep6",
+    "type": "sheep",
+    "name": "Shadow",
+    "description": "A sheep #6, approx 59 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "sheep7",
+    "type": "sheep",
+    "name": "Kiwi",
+    "description": "A sheep #7, approx 73 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "sheep8",
+    "type": "sheep",
+    "name": "Splash",
+    "description": "A sheep #8, approx 90 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "sheep9",
+    "type": "sheep",
+    "name": "Orchid",
+    "description": "A sheep #9, approx 54 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "sheep10",
+    "type": "sheep",
+    "name": "Brownie",
+    "description": "A sheep #10, approx 22 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "sheep11",
+    "type": "sheep",
+    "name": "Simba",
+    "description": "A sheep #11, approx 29 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "sheep12",
+    "type": "sheep",
+    "name": "Slither",
+    "description": "A sheep #12, approx 83 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "sheep13",
+    "type": "sheep",
+    "name": "Simba",
+    "description": "A sheep #13, approx 18 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "sheep14",
+    "type": "sheep",
+    "name": "Coco",
+    "description": "A sheep #14, approx 62 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "sheep15",
+    "type": "sheep",
+    "name": "Coco",
+    "description": "A sheep #15, approx 74 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "sheep16",
+    "type": "sheep",
+    "name": "Athena",
+    "description": "A sheep #16, approx 86 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "sheep17",
+    "type": "sheep",
+    "name": "Cookie",
+    "description": "A sheep #17, approx 54 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "sheep18",
+    "type": "sheep",
+    "name": "Flash",
+    "description": "A sheep #18, approx 54 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "sheep19",
+    "type": "sheep",
+    "name": "Orchid",
+    "description": "A sheep #19, approx 79 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "sheep20",
+    "type": "sheep",
+    "name": "Ash",
+    "description": "A sheep #20, approx 22 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "sheep21",
+    "type": "sheep",
+    "name": "Tulip",
+    "description": "A sheep #21, approx 24 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "sheep22",
+    "type": "sheep",
+    "name": "Rocky",
+    "description": "A sheep #22, approx 75 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "sheep23",
+    "type": "sheep",
+    "name": "Latte",
+    "description": "A sheep #23, approx 50 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "sheep24",
+    "type": "sheep",
+    "name": "Buddy",
+    "description": "A sheep #24, approx 77 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "sheep25",
+    "type": "sheep",
+    "name": "Sugar",
+    "description": "A sheep #25, approx 47 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "sheep26",
+    "type": "sheep",
+    "name": "Croak",
+    "description": "A sheep #26, approx 49 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "sheep27",
+    "type": "sheep",
+    "name": "Lily",
+    "description": "A sheep #27, approx 82 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "sheep28",
+    "type": "sheep",
+    "name": "Polly",
+    "description": "A sheep #28, approx 96 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "sheep29",
+    "type": "sheep",
+    "name": "Slither",
+    "description": "A sheep #29, approx 34 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "sheep30",
+    "type": "sheep",
+    "name": "Ivy",
+    "description": "A sheep #30, approx 19 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "sheep31",
+    "type": "sheep",
+    "name": "Song",
+    "description": "A sheep #31, approx 60 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "sheep32",
+    "type": "sheep",
+    "name": "Buddy",
+    "description": "A sheep #32, approx 68 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "sheep33",
+    "type": "sheep",
+    "name": "Poppy",
+    "description": "A sheep #33, approx 84 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "sheep34",
+    "type": "sheep",
+    "name": "Rain",
+    "description": "A sheep #34, approx 35 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "sheep35",
+    "type": "sheep",
+    "name": "Peanut",
+    "description": "A sheep #35, approx 52 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "sheep36",
+    "type": "sheep",
+    "name": "Ember",
+    "description": "A sheep #36, approx 32 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "sheep37",
+    "type": "sheep",
+    "name": "Zeus",
+    "description": "A sheep #37, approx 37 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "sheep38",
+    "type": "sheep",
+    "name": "Lola",
+    "description": "A sheep #38, approx 42 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "sheep39",
+    "type": "sheep",
+    "name": "Croak",
+    "description": "A sheep #39, approx 23 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "sheep40",
+    "type": "sheep",
+    "name": "Polly",
+    "description": "A sheep #40, approx 10 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "sheep41",
+    "type": "sheep",
+    "name": "Peanut",
+    "description": "A sheep #41, approx 2 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "sheep42",
+    "type": "sheep",
+    "name": "Rain",
+    "description": "A sheep #42, approx 32 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "sheep43",
+    "type": "sheep",
+    "name": "Finn",
+    "description": "A sheep #43, approx 79 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "sheep44",
+    "type": "sheep",
+    "name": "Jazz",
+    "description": "A sheep #44, approx 71 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "sheep45",
+    "type": "sheep",
+    "name": "Hopper",
+    "description": "A sheep #45, approx 13 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "sheep46",
+    "type": "sheep",
+    "name": "Coco",
+    "description": "A sheep #46, approx 18 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "sheep47",
+    "type": "sheep",
+    "name": "Poseidon",
+    "description": "A sheep #47, approx 10 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "sheep48",
+    "type": "sheep",
+    "name": "Croak",
+    "description": "A sheep #48, approx 81 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "sheep49",
+    "type": "sheep",
+    "name": "Artemis",
+    "description": "A sheep #49, approx 63 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "sheep50",
+    "type": "sheep",
+    "name": "Sugar",
+    "description": "A sheep #50, approx 19 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "pig1",
+    "type": "pig",
+    "name": "Cookie",
+    "description": "A pig #1, approx 3 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "pig2",
+    "type": "pig",
+    "name": "Artemis",
+    "description": "A pig #2, approx 93 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "pig3",
+    "type": "pig",
+    "name": "Rain",
+    "description": "A pig #3, approx 38 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "pig4",
+    "type": "pig",
+    "name": "Jazz",
+    "description": "A pig #4, approx 5 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "pig5",
+    "type": "pig",
+    "name": "Zoom",
+    "description": "A pig #5, approx 60 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "pig6",
+    "type": "pig",
+    "name": "Willow",
+    "description": "A pig #6, approx 11 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "pig7",
+    "type": "pig",
+    "name": "Tiger",
+    "description": "A pig #7, approx 22 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "pig8",
+    "type": "pig",
+    "name": "Tulip",
+    "description": "A pig #8, approx 64 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "pig9",
+    "type": "pig",
+    "name": "Bella",
+    "description": "A pig #9, approx 38 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "pig10",
+    "type": "pig",
+    "name": "Melody",
+    "description": "A pig #10, approx 40 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "pig11",
+    "type": "pig",
+    "name": "Banana",
+    "description": "A pig #11, approx 10 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "pig12",
+    "type": "pig",
+    "name": "Shelly",
+    "description": "A pig #12, approx 78 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "pig13",
+    "type": "pig",
+    "name": "Tulip",
+    "description": "A pig #13, approx 99 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "pig14",
+    "type": "pig",
+    "name": "Chai",
+    "description": "A pig #14, approx 97 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "pig15",
+    "type": "pig",
+    "name": "Freya",
+    "description": "A pig #15, approx 18 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "pig16",
+    "type": "pig",
+    "name": "Coco",
+    "description": "A pig #16, approx 4 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "pig17",
+    "type": "pig",
+    "name": "Oakley",
+    "description": "A pig #17, approx 75 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "pig18",
+    "type": "pig",
+    "name": "Lola",
+    "description": "A pig #18, approx 10 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "pig19",
+    "type": "pig",
+    "name": "Ruby",
+    "description": "A pig #19, approx 46 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "pig20",
+    "type": "pig",
+    "name": "Sky",
+    "description": "A pig #20, approx 41 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "pig21",
+    "type": "pig",
+    "name": "Muffin",
+    "description": "A pig #21, approx 24 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "pig22",
+    "type": "pig",
+    "name": "Hera",
+    "description": "A pig #22, approx 77 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "pig23",
+    "type": "pig",
+    "name": "Orchid",
+    "description": "A pig #23, approx 62 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "pig24",
+    "type": "pig",
+    "name": "Spike",
+    "description": "A pig #24, approx 19 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "pig25",
+    "type": "pig",
+    "name": "Hermes",
+    "description": "A pig #25, approx 77 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "pig26",
+    "type": "pig",
+    "name": "Zeus",
+    "description": "A pig #26, approx 95 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "pig27",
+    "type": "pig",
+    "name": "Coco",
+    "description": "A pig #27, approx 79 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "pig28",
+    "type": "pig",
+    "name": "Honey",
+    "description": "A pig #28, approx 58 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "pig29",
+    "type": "pig",
+    "name": "Freya",
+    "description": "A pig #29, approx 52 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "pig30",
+    "type": "pig",
+    "name": "Sunny",
+    "description": "A pig #30, approx 2 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "pig31",
+    "type": "pig",
+    "name": "Peanut",
+    "description": "A pig #31, approx 64 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "pig32",
+    "type": "pig",
+    "name": "Song",
+    "description": "A pig #32, approx 63 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "pig33",
+    "type": "pig",
+    "name": "Coco",
+    "description": "A pig #33, approx 9 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "pig34",
+    "type": "pig",
+    "name": "George",
+    "description": "A pig #34, approx 30 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "pig35",
+    "type": "pig",
+    "name": "Apollo",
+    "description": "A pig #35, approx 11 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "pig36",
+    "type": "pig",
+    "name": "Zoom",
+    "description": "A pig #36, approx 85 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "pig37",
+    "type": "pig",
+    "name": "Hopper",
+    "description": "A pig #37, approx 41 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "pig38",
+    "type": "pig",
+    "name": "Latte",
+    "description": "A pig #38, approx 84 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "pig39",
+    "type": "pig",
+    "name": "River",
+    "description": "A pig #39, approx 71 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "pig40",
+    "type": "pig",
+    "name": "Ash",
+    "description": "A pig #40, approx 3 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "pig41",
+    "type": "pig",
+    "name": "Jazz",
+    "description": "A pig #41, approx 87 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "pig42",
+    "type": "pig",
+    "name": "Clover",
+    "description": "A pig #42, approx 55 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "pig43",
+    "type": "pig",
+    "name": "Lily",
+    "description": "A pig #43, approx 60 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "pig44",
+    "type": "pig",
+    "name": "Tiger",
+    "description": "A pig #44, approx 16 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "pig45",
+    "type": "pig",
+    "name": "Lola",
+    "description": "A pig #45, approx 89 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "pig46",
+    "type": "pig",
+    "name": "Freya",
+    "description": "A pig #46, approx 7 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "pig47",
+    "type": "pig",
+    "name": "Milo",
+    "description": "A pig #47, approx 68 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "pig48",
+    "type": "pig",
+    "name": "Fern",
+    "description": "A pig #48, approx 11 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "pig49",
+    "type": "pig",
+    "name": "Bella",
+    "description": "A pig #49, approx 24 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "pig50",
+    "type": "pig",
+    "name": "Artemis",
+    "description": "A pig #50, approx 99 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "duck1",
+    "type": "duck",
+    "name": "Maple",
+    "description": "A duck #1, approx 83 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "duck2",
+    "type": "duck",
+    "name": "Rocky",
+    "description": "A duck #2, approx 19 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "duck3",
+    "type": "duck",
+    "name": "Hermes",
+    "description": "A duck #3, approx 58 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "duck4",
+    "type": "duck",
+    "name": "Zoom",
+    "description": "A duck #4, approx 98 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "duck5",
+    "type": "duck",
+    "name": "Coco",
+    "description": "A duck #5, approx 49 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "duck6",
+    "type": "duck",
+    "name": "Shadow",
+    "description": "A duck #6, approx 94 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "duck7",
+    "type": "duck",
+    "name": "Hazel",
+    "description": "A duck #7, approx 88 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "duck8",
+    "type": "duck",
+    "name": "Clover",
+    "description": "A duck #8, approx 96 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "duck9",
+    "type": "duck",
+    "name": "Hazel",
+    "description": "A duck #9, approx 2 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "duck10",
+    "type": "duck",
+    "name": "Bella",
+    "description": "A duck #10, approx 72 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "duck11",
+    "type": "duck",
+    "name": "Cookie",
+    "description": "A duck #11, approx 15 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "duck12",
+    "type": "duck",
+    "name": "Zeus",
+    "description": "A duck #12, approx 34 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "duck13",
+    "type": "duck",
+    "name": "Thor",
+    "description": "A duck #13, approx 39 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "duck14",
+    "type": "duck",
+    "name": "River",
+    "description": "A duck #14, approx 74 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "duck15",
+    "type": "duck",
+    "name": "Lily",
+    "description": "A duck #15, approx 6 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "duck16",
+    "type": "duck",
+    "name": "Pepper",
+    "description": "A duck #16, approx 23 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "duck17",
+    "type": "duck",
+    "name": "Melody",
+    "description": "A duck #17, approx 60 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "duck18",
+    "type": "duck",
+    "name": "Shelly",
+    "description": "A duck #18, approx 38 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "duck19",
+    "type": "duck",
+    "name": "Athena",
+    "description": "A duck #19, approx 43 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "duck20",
+    "type": "duck",
+    "name": "Willow",
+    "description": "A duck #20, approx 93 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "duck21",
+    "type": "duck",
+    "name": "Jazz",
+    "description": "A duck #21, approx 41 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "duck22",
+    "type": "duck",
+    "name": "Freya",
+    "description": "A duck #22, approx 55 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "duck23",
+    "type": "duck",
+    "name": "Sunny",
+    "description": "A duck #23, approx 77 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "duck24",
+    "type": "duck",
+    "name": "Ivy",
+    "description": "A duck #24, approx 88 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "duck25",
+    "type": "duck",
+    "name": "Slither",
+    "description": "A duck #25, approx 80 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "duck26",
+    "type": "duck",
+    "name": "Tiger",
+    "description": "A duck #26, approx 24 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "duck27",
+    "type": "duck",
+    "name": "Thor",
+    "description": "A duck #27, approx 53 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "duck28",
+    "type": "duck",
+    "name": "Tulip",
+    "description": "A duck #28, approx 42 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "duck29",
+    "type": "duck",
+    "name": "Finn",
+    "description": "A duck #29, approx 58 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "duck30",
+    "type": "duck",
+    "name": "Lola",
+    "description": "A duck #30, approx 47 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "duck31",
+    "type": "duck",
+    "name": "Oakley",
+    "description": "A duck #31, approx 17 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "duck32",
+    "type": "duck",
+    "name": "Violet",
+    "description": "A duck #32, approx 27 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "duck33",
+    "type": "duck",
+    "name": "Bubbles",
+    "description": "A duck #33, approx 34 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "duck34",
+    "type": "duck",
+    "name": "Cookie",
+    "description": "A duck #34, approx 51 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "duck35",
+    "type": "duck",
+    "name": "Hazel",
+    "description": "A duck #35, approx 46 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "duck36",
+    "type": "duck",
+    "name": "Blaze",
+    "description": "A duck #36, approx 25 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "duck37",
+    "type": "duck",
+    "name": "Zeus",
+    "description": "A duck #37, approx 61 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "duck38",
+    "type": "duck",
+    "name": "Thumper",
+    "description": "A duck #38, approx 70 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "duck39",
+    "type": "duck",
+    "name": "Spike",
+    "description": "A duck #39, approx 68 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "duck40",
+    "type": "duck",
+    "name": "Harmony",
+    "description": "A duck #40, approx 8 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "duck41",
+    "type": "duck",
+    "name": "Hermes",
+    "description": "A duck #41, approx 40 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "duck42",
+    "type": "duck",
+    "name": "George",
+    "description": "A duck #42, approx 80 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "duck43",
+    "type": "duck",
+    "name": "Oscar",
+    "description": "A duck #43, approx 88 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "duck44",
+    "type": "duck",
+    "name": "Poppy",
+    "description": "A duck #44, approx 95 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "duck45",
+    "type": "duck",
+    "name": "Violet",
+    "description": "A duck #45, approx 40 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "duck46",
+    "type": "duck",
+    "name": "Rose",
+    "description": "A duck #46, approx 19 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "duck47",
+    "type": "duck",
+    "name": "Lucy",
+    "description": "A duck #47, approx 89 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "duck48",
+    "type": "duck",
+    "name": "Ivy",
+    "description": "A duck #48, approx 96 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "duck49",
+    "type": "duck",
+    "name": "Peanut",
+    "description": "A duck #49, approx 68 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "duck50",
+    "type": "duck",
+    "name": "Rocky",
+    "description": "A duck #50, approx 56 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "chicken1",
+    "type": "chicken",
+    "name": "Snowball",
+    "description": "A chicken #1, approx 26 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "chicken2",
+    "type": "chicken",
+    "name": "Tulip",
+    "description": "A chicken #2, approx 51 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "chicken3",
+    "type": "chicken",
+    "name": "Fern",
+    "description": "A chicken #3, approx 32 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "chicken4",
+    "type": "chicken",
+    "name": "Slither",
+    "description": "A chicken #4, approx 63 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "chicken5",
+    "type": "chicken",
+    "name": "Salt",
+    "description": "A chicken #5, approx 99 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "chicken6",
+    "type": "chicken",
+    "name": "Lily",
+    "description": "A chicken #6, approx 79 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "chicken7",
+    "type": "chicken",
+    "name": "Hazel",
+    "description": "A chicken #7, approx 54 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "chicken8",
+    "type": "chicken",
+    "name": "Simba",
+    "description": "A chicken #8, approx 70 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "chicken9",
+    "type": "chicken",
+    "name": "Storm",
+    "description": "A chicken #9, approx 58 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "chicken10",
+    "type": "chicken",
+    "name": "Tiger",
+    "description": "A chicken #10, approx 42 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "chicken11",
+    "type": "chicken",
+    "name": "Brownie",
+    "description": "A chicken #11, approx 61 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "chicken12",
+    "type": "chicken",
+    "name": "Fern",
+    "description": "A chicken #12, approx 86 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "chicken13",
+    "type": "chicken",
+    "name": "Coco",
+    "description": "A chicken #13, approx 67 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "chicken14",
+    "type": "chicken",
+    "name": "Venus",
+    "description": "A chicken #14, approx 33 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "chicken15",
+    "type": "chicken",
+    "name": "Melody",
+    "description": "A chicken #15, approx 38 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "chicken16",
+    "type": "chicken",
+    "name": "Maple",
+    "description": "A chicken #16, approx 91 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "chicken17",
+    "type": "chicken",
+    "name": "River",
+    "description": "A chicken #17, approx 5 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "chicken18",
+    "type": "chicken",
+    "name": "Zoom",
+    "description": "A chicken #18, approx 35 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "chicken19",
+    "type": "chicken",
+    "name": "Simba",
+    "description": "A chicken #19, approx 5 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "chicken20",
+    "type": "chicken",
+    "name": "Cookie",
+    "description": "A chicken #20, approx 61 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "chicken21",
+    "type": "chicken",
+    "name": "Tiger",
+    "description": "A chicken #21, approx 14 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "chicken22",
+    "type": "chicken",
+    "name": "Chico",
+    "description": "A chicken #22, approx 73 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "chicken23",
+    "type": "chicken",
+    "name": "Sunny",
+    "description": "A chicken #23, approx 94 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "chicken24",
+    "type": "chicken",
+    "name": "Zeus",
+    "description": "A chicken #24, approx 52 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "chicken25",
+    "type": "chicken",
+    "name": "Tulip",
+    "description": "A chicken #25, approx 59 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "chicken26",
+    "type": "chicken",
+    "name": "Fern",
+    "description": "A chicken #26, approx 51 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "chicken27",
+    "type": "chicken",
+    "name": "Melody",
+    "description": "A chicken #27, approx 95 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "chicken28",
+    "type": "chicken",
+    "name": "Fern",
+    "description": "A chicken #28, approx 26 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "chicken29",
+    "type": "chicken",
+    "name": "Freya",
+    "description": "A chicken #29, approx 50 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "chicken30",
+    "type": "chicken",
+    "name": "Song",
+    "description": "A chicken #30, approx 33 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "chicken31",
+    "type": "chicken",
+    "name": "Slither",
+    "description": "A chicken #31, approx 53 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "chicken32",
+    "type": "chicken",
+    "name": "Blaze",
+    "description": "A chicken #32, approx 28 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "chicken33",
+    "type": "chicken",
+    "name": "River",
+    "description": "A chicken #33, approx 28 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "chicken34",
+    "type": "chicken",
+    "name": "Ruby",
+    "description": "A chicken #34, approx 7 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "chicken35",
+    "type": "chicken",
+    "name": "Chico",
+    "description": "A chicken #35, approx 43 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "chicken36",
+    "type": "chicken",
+    "name": "Shadow",
+    "description": "A chicken #36, approx 73 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "chicken37",
+    "type": "chicken",
+    "name": "Polly",
+    "description": "A chicken #37, approx 48 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "chicken38",
+    "type": "chicken",
+    "name": "Whisper",
+    "description": "A chicken #38, approx 27 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "chicken39",
+    "type": "chicken",
+    "name": "Daisy",
+    "description": "A chicken #39, approx 68 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "chicken40",
+    "type": "chicken",
+    "name": "Cookie",
+    "description": "A chicken #40, approx 29 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "chicken41",
+    "type": "chicken",
+    "name": "Lola",
+    "description": "A chicken #41, approx 94 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "chicken42",
+    "type": "chicken",
+    "name": "Storm",
+    "description": "A chicken #42, approx 68 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "chicken43",
+    "type": "chicken",
+    "name": "Nala",
+    "description": "A chicken #43, approx 8 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "chicken44",
+    "type": "chicken",
+    "name": "Clover",
+    "description": "A chicken #44, approx 19 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "chicken45",
+    "type": "chicken",
+    "name": "Apollo",
+    "description": "A chicken #45, approx 13 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "chicken46",
+    "type": "chicken",
+    "name": "Fern",
+    "description": "A chicken #46, approx 22 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "chicken47",
+    "type": "chicken",
+    "name": "Poppy",
+    "description": "A chicken #47, approx 63 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "chicken48",
+    "type": "chicken",
+    "name": "Rocky",
+    "description": "A chicken #48, approx 91 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "chicken49",
+    "type": "chicken",
+    "name": "Salt",
+    "description": "A chicken #49, approx 58 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "chicken50",
+    "type": "chicken",
+    "name": "Pepper",
+    "description": "A chicken #50, approx 25 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "parrot1",
+    "type": "parrot",
+    "name": "Milo",
+    "description": "A parrot #1, approx 45 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "parrot2",
+    "type": "parrot",
+    "name": "Oakley",
+    "description": "A parrot #2, approx 4 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "parrot3",
+    "type": "parrot",
+    "name": "Nala",
+    "description": "A parrot #3, approx 23 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "parrot4",
+    "type": "parrot",
+    "name": "Spike",
+    "description": "A parrot #4, approx 53 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "parrot5",
+    "type": "parrot",
+    "name": "Finn",
+    "description": "A parrot #5, approx 50 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "parrot6",
+    "type": "parrot",
+    "name": "Splash",
+    "description": "A parrot #6, approx 75 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "parrot7",
+    "type": "parrot",
+    "name": "Muffin",
+    "description": "A parrot #7, approx 10 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "parrot8",
+    "type": "parrot",
+    "name": "Zeus",
+    "description": "A parrot #8, approx 72 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "parrot9",
+    "type": "parrot",
+    "name": "Poppy",
+    "description": "A parrot #9, approx 17 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "parrot10",
+    "type": "parrot",
+    "name": "Bella",
+    "description": "A parrot #10, approx 65 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "parrot11",
+    "type": "parrot",
+    "name": "Nala",
+    "description": "A parrot #11, approx 97 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "parrot12",
+    "type": "parrot",
+    "name": "Oakley",
+    "description": "A parrot #12, approx 3 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "parrot13",
+    "type": "parrot",
+    "name": "Jazz",
+    "description": "A parrot #13, approx 18 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "parrot14",
+    "type": "parrot",
+    "name": "Peanut",
+    "description": "A parrot #14, approx 87 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "parrot15",
+    "type": "parrot",
+    "name": "Poseidon",
+    "description": "A parrot #15, approx 30 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "parrot16",
+    "type": "parrot",
+    "name": "Max",
+    "description": "A parrot #16, approx 54 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "parrot17",
+    "type": "parrot",
+    "name": "Slither",
+    "description": "A parrot #17, approx 30 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "parrot18",
+    "type": "parrot",
+    "name": "Flash",
+    "description": "A parrot #18, approx 48 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "parrot19",
+    "type": "parrot",
+    "name": "Honey",
+    "description": "A parrot #19, approx 61 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "parrot20",
+    "type": "parrot",
+    "name": "Hera",
+    "description": "A parrot #20, approx 20 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "parrot21",
+    "type": "parrot",
+    "name": "Storm",
+    "description": "A parrot #21, approx 72 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "parrot22",
+    "type": "parrot",
+    "name": "Ruby",
+    "description": "A parrot #22, approx 84 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "parrot23",
+    "type": "parrot",
+    "name": "Hazel",
+    "description": "A parrot #23, approx 38 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "parrot24",
+    "type": "parrot",
+    "name": "Spike",
+    "description": "A parrot #24, approx 11 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "parrot25",
+    "type": "parrot",
+    "name": "Orchid",
+    "description": "A parrot #25, approx 48 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "parrot26",
+    "type": "parrot",
+    "name": "Artemis",
+    "description": "A parrot #26, approx 33 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "parrot27",
+    "type": "parrot",
+    "name": "Hermes",
+    "description": "A parrot #27, approx 8 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "parrot28",
+    "type": "parrot",
+    "name": "Milo",
+    "description": "A parrot #28, approx 67 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "parrot29",
+    "type": "parrot",
+    "name": "Spike",
+    "description": "A parrot #29, approx 36 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "parrot30",
+    "type": "parrot",
+    "name": "Hopper",
+    "description": "A parrot #30, approx 44 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "parrot31",
+    "type": "parrot",
+    "name": "Jazz",
+    "description": "A parrot #31, approx 16 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "parrot32",
+    "type": "parrot",
+    "name": "Jazz",
+    "description": "A parrot #32, approx 92 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "parrot33",
+    "type": "parrot",
+    "name": "Slither",
+    "description": "A parrot #33, approx 79 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "parrot34",
+    "type": "parrot",
+    "name": "Artemis",
+    "description": "A parrot #34, approx 73 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "parrot35",
+    "type": "parrot",
+    "name": "Snowball",
+    "description": "A parrot #35, approx 52 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "parrot36",
+    "type": "parrot",
+    "name": "Hazel",
+    "description": "A parrot #36, approx 7 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "parrot37",
+    "type": "parrot",
+    "name": "Echo",
+    "description": "A parrot #37, approx 23 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "parrot38",
+    "type": "parrot",
+    "name": "George",
+    "description": "A parrot #38, approx 35 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "parrot39",
+    "type": "parrot",
+    "name": "Slither",
+    "description": "A parrot #39, approx 97 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "parrot40",
+    "type": "parrot",
+    "name": "Hopper",
+    "description": "A parrot #40, approx 23 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "parrot41",
+    "type": "parrot",
+    "name": "Poppy",
+    "description": "A parrot #41, approx 75 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "parrot42",
+    "type": "parrot",
+    "name": "Leo",
+    "description": "A parrot #42, approx 39 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "parrot43",
+    "type": "parrot",
+    "name": "Thumper",
+    "description": "A parrot #43, approx 25 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "parrot44",
+    "type": "parrot",
+    "name": "Max",
+    "description": "A parrot #44, approx 4 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "parrot45",
+    "type": "parrot",
+    "name": "Hermes",
+    "description": "A parrot #45, approx 89 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "parrot46",
+    "type": "parrot",
+    "name": "Tiger",
+    "description": "A parrot #46, approx 17 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "parrot47",
+    "type": "parrot",
+    "name": "Milo",
+    "description": "A parrot #47, approx 17 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "parrot48",
+    "type": "parrot",
+    "name": "Dash",
+    "description": "A parrot #48, approx 8 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "parrot49",
+    "type": "parrot",
+    "name": "Echo",
+    "description": "A parrot #49, approx 32 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "parrot50",
+    "type": "parrot",
+    "name": "Rose",
+    "description": "A parrot #50, approx 17 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "fish1",
+    "type": "fish",
+    "name": "Bolt",
+    "description": "A fish #1, approx 56 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "fish2",
+    "type": "fish",
+    "name": "Daisy",
+    "description": "A fish #2, approx 52 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "fish3",
+    "type": "fish",
+    "name": "Oakley",
+    "description": "A fish #3, approx 89 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "fish4",
+    "type": "fish",
+    "name": "Rocky",
+    "description": "A fish #4, approx 43 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "fish5",
+    "type": "fish",
+    "name": "Fern",
+    "description": "A fish #5, approx 17 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "fish6",
+    "type": "fish",
+    "name": "Sunny",
+    "description": "A fish #6, approx 56 lbs, healthy and active.",
+    "traits": "Likes company"
+  },
+  {
+    "id": "fish7",
+    "type": "fish",
+    "name": "Echo",
+    "description": "A fish #7, approx 78 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "fish8",
+    "type": "fish",
+    "name": "Bolt",
+    "description": "A fish #8, approx 97 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "fish9",
+    "type": "fish",
+    "name": "Splash",
+    "description": "A fish #9, approx 55 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "fish10",
+    "type": "fish",
+    "name": "Odin",
+    "description": "A fish #10, approx 88 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "fish11",
+    "type": "fish",
+    "name": "Shelly",
+    "description": "A fish #11, approx 95 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "fish12",
+    "type": "fish",
+    "name": "Poseidon",
+    "description": "A fish #12, approx 63 lbs, healthy and active.",
+    "traits": "Active at night"
+  },
+  {
+    "id": "fish13",
+    "type": "fish",
+    "name": "Tulip",
+    "description": "A fish #13, approx 53 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "fish14",
+    "type": "fish",
+    "name": "Clover",
+    "description": "A fish #14, approx 50 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "fish15",
+    "type": "fish",
+    "name": "Zoom",
+    "description": "A fish #15, approx 72 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "fish16",
+    "type": "fish",
+    "name": "Finn",
+    "description": "A fish #16, approx 39 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "fish17",
+    "type": "fish",
+    "name": "Melody",
+    "description": "A fish #17, approx 22 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "fish18",
+    "type": "fish",
+    "name": "Finn",
+    "description": "A fish #18, approx 64 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "fish19",
+    "type": "fish",
+    "name": "Simba",
+    "description": "A fish #19, approx 67 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "fish20",
+    "type": "fish",
+    "name": "Dash",
+    "description": "A fish #20, approx 47 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "fish21",
+    "type": "fish",
+    "name": "Shelly",
+    "description": "A fish #21, approx 40 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "fish22",
+    "type": "fish",
+    "name": "Simba",
+    "description": "A fish #22, approx 10 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "fish23",
+    "type": "fish",
+    "name": "Coco",
+    "description": "A fish #23, approx 31 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "fish24",
+    "type": "fish",
+    "name": "Bubbles",
+    "description": "A fish #24, approx 86 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "fish25",
+    "type": "fish",
+    "name": "Apollo",
+    "description": "A fish #25, approx 67 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "fish26",
+    "type": "fish",
+    "name": "Leo",
+    "description": "A fish #26, approx 15 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "fish27",
+    "type": "fish",
+    "name": "Croak",
+    "description": "A fish #27, approx 33 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "fish28",
+    "type": "fish",
+    "name": "Tulip",
+    "description": "A fish #28, approx 62 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "fish29",
+    "type": "fish",
+    "name": "Fern",
+    "description": "A fish #29, approx 97 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "fish30",
+    "type": "fish",
+    "name": "Oakley",
+    "description": "A fish #30, approx 47 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "fish31",
+    "type": "fish",
+    "name": "Tulip",
+    "description": "A fish #31, approx 23 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "fish32",
+    "type": "fish",
+    "name": "Bolt",
+    "description": "A fish #32, approx 42 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "fish33",
+    "type": "fish",
+    "name": "Kiwi",
+    "description": "A fish #33, approx 39 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "fish34",
+    "type": "fish",
+    "name": "Thumper",
+    "description": "A fish #34, approx 45 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "fish35",
+    "type": "fish",
+    "name": "Echo",
+    "description": "A fish #35, approx 4 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "fish36",
+    "type": "fish",
+    "name": "Daisy",
+    "description": "A fish #36, approx 17 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "fish37",
+    "type": "fish",
+    "name": "Venus",
+    "description": "A fish #37, approx 89 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "fish38",
+    "type": "fish",
+    "name": "Lily",
+    "description": "A fish #38, approx 27 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "fish39",
+    "type": "fish",
+    "name": "Thumper",
+    "description": "A fish #39, approx 74 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "fish40",
+    "type": "fish",
+    "name": "Muffin",
+    "description": "A fish #40, approx 21 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "fish41",
+    "type": "fish",
+    "name": "Harmony",
+    "description": "A fish #41, approx 33 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "fish42",
+    "type": "fish",
+    "name": "Honey",
+    "description": "A fish #42, approx 83 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "fish43",
+    "type": "fish",
+    "name": "Athena",
+    "description": "A fish #43, approx 18 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "fish44",
+    "type": "fish",
+    "name": "Max",
+    "description": "A fish #44, approx 97 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "fish45",
+    "type": "fish",
+    "name": "Lily",
+    "description": "A fish #45, approx 98 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "fish46",
+    "type": "fish",
+    "name": "Goldie",
+    "description": "A fish #46, approx 46 lbs, healthy and active.",
+    "traits": "Enjoys water"
+  },
+  {
+    "id": "fish47",
+    "type": "fish",
+    "name": "Harmony",
+    "description": "A fish #47, approx 35 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "fish48",
+    "type": "fish",
+    "name": "Oscar",
+    "description": "A fish #48, approx 77 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "fish49",
+    "type": "fish",
+    "name": "Splash",
+    "description": "A fish #49, approx 84 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "fish50",
+    "type": "fish",
+    "name": "Fern",
+    "description": "A fish #50, approx 53 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "frog1",
+    "type": "frog",
+    "name": "Thumper",
+    "description": "A frog #1, approx 87 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "frog2",
+    "type": "frog",
+    "name": "Thumper",
+    "description": "A frog #2, approx 73 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "frog3",
+    "type": "frog",
+    "name": "Splash",
+    "description": "A frog #3, approx 17 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "frog4",
+    "type": "frog",
+    "name": "Honey",
+    "description": "A frog #4, approx 63 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "frog5",
+    "type": "frog",
+    "name": "Cloud",
+    "description": "A frog #5, approx 49 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "frog6",
+    "type": "frog",
+    "name": "Orchid",
+    "description": "A frog #6, approx 29 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "frog7",
+    "type": "frog",
+    "name": "Sky",
+    "description": "A frog #7, approx 9 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "frog8",
+    "type": "frog",
+    "name": "Simba",
+    "description": "A frog #8, approx 69 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "frog9",
+    "type": "frog",
+    "name": "Shadow",
+    "description": "A frog #9, approx 88 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "frog10",
+    "type": "frog",
+    "name": "Dash",
+    "description": "A frog #10, approx 72 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "frog11",
+    "type": "frog",
+    "name": "Tulip",
+    "description": "A frog #11, approx 15 lbs, healthy and active.",
+    "traits": "Colorful feathers"
+  },
+  {
+    "id": "frog12",
+    "type": "frog",
+    "name": "Bubbles",
+    "description": "A frog #12, approx 71 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "frog13",
+    "type": "frog",
+    "name": "Fern",
+    "description": "A frog #13, approx 15 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "frog14",
+    "type": "frog",
+    "name": "Ivy",
+    "description": "A frog #14, approx 94 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "frog15",
+    "type": "frog",
+    "name": "Hermes",
+    "description": "A frog #15, approx 91 lbs, healthy and active.",
+    "traits": "Territorial"
+  },
+  {
+    "id": "frog16",
+    "type": "frog",
+    "name": "Brownie",
+    "description": "A frog #16, approx 48 lbs, healthy and active.",
+    "traits": "Loves fetch"
+  },
+  {
+    "id": "frog17",
+    "type": "frog",
+    "name": "Apollo",
+    "description": "A frog #17, approx 83 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "frog18",
+    "type": "frog",
+    "name": "Rocky",
+    "description": "A frog #18, approx 5 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "frog19",
+    "type": "frog",
+    "name": "Sky",
+    "description": "A frog #19, approx 9 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "frog20",
+    "type": "frog",
+    "name": "Athena",
+    "description": "A frog #20, approx 14 lbs, healthy and active.",
+    "traits": "Quick learner"
+  },
+  {
+    "id": "frog21",
+    "type": "frog",
+    "name": "Apollo",
+    "description": "A frog #21, approx 45 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "frog22",
+    "type": "frog",
+    "name": "Hopper",
+    "description": "A frog #22, approx 80 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "frog23",
+    "type": "frog",
+    "name": "Simba",
+    "description": "A frog #23, approx 59 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "frog24",
+    "type": "frog",
+    "name": "Shelly",
+    "description": "A frog #24, approx 73 lbs, healthy and active.",
+    "traits": "Housebroken"
+  },
+  {
+    "id": "frog25",
+    "type": "frog",
+    "name": "Kiwi",
+    "description": "A frog #25, approx 92 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "frog26",
+    "type": "frog",
+    "name": "Tiger",
+    "description": "A frog #26, approx 13 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "frog27",
+    "type": "frog",
+    "name": "Ivy",
+    "description": "A frog #27, approx 87 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "frog28",
+    "type": "frog",
+    "name": "Finn",
+    "description": "A frog #28, approx 93 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "frog29",
+    "type": "frog",
+    "name": "Lola",
+    "description": "A frog #29, approx 35 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "frog30",
+    "type": "frog",
+    "name": "Echo",
+    "description": "A frog #30, approx 16 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "frog31",
+    "type": "frog",
+    "name": "Slither",
+    "description": "A frog #31, approx 27 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "frog32",
+    "type": "frog",
+    "name": "Echo",
+    "description": "A frog #32, approx 68 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "frog33",
+    "type": "frog",
+    "name": "Chico",
+    "description": "A frog #33, approx 59 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "frog34",
+    "type": "frog",
+    "name": "Orchid",
+    "description": "A frog #34, approx 95 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "frog35",
+    "type": "frog",
+    "name": "Jazz",
+    "description": "A frog #35, approx 47 lbs, healthy and active.",
+    "traits": "Docile"
+  },
+  {
+    "id": "frog36",
+    "type": "frog",
+    "name": "Latte",
+    "description": "A frog #36, approx 55 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "frog37",
+    "type": "frog",
+    "name": "Artemis",
+    "description": "A frog #37, approx 86 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "frog38",
+    "type": "frog",
+    "name": "Thor",
+    "description": "A frog #38, approx 29 lbs, healthy and active.",
+    "traits": "Playful"
+  },
+  {
+    "id": "frog39",
+    "type": "frog",
+    "name": "Apollo",
+    "description": "A frog #39, approx 31 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "frog40",
+    "type": "frog",
+    "name": "Ember",
+    "description": "A frog #40, approx 4 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "frog41",
+    "type": "frog",
+    "name": "Honey",
+    "description": "A frog #41, approx 99 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "frog42",
+    "type": "frog",
+    "name": "Banana",
+    "description": "A frog #42, approx 99 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "frog43",
+    "type": "frog",
+    "name": "Thumper",
+    "description": "A frog #43, approx 62 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "frog44",
+    "type": "frog",
+    "name": "Fern",
+    "description": "A frog #44, approx 91 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "frog45",
+    "type": "frog",
+    "name": "Buddy",
+    "description": "A frog #45, approx 74 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  },
+  {
+    "id": "frog46",
+    "type": "frog",
+    "name": "Snowball",
+    "description": "A frog #46, approx 26 lbs, healthy and active.",
+    "traits": "Loves bananas"
+  },
+  {
+    "id": "frog47",
+    "type": "frog",
+    "name": "Salt",
+    "description": "A frog #47, approx 5 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "frog48",
+    "type": "frog",
+    "name": "Violet",
+    "description": "A frog #48, approx 53 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "frog49",
+    "type": "frog",
+    "name": "Song",
+    "description": "A frog #49, approx 33 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "frog50",
+    "type": "frog",
+    "name": "Brownie",
+    "description": "A frog #50, approx 81 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "monkey1",
+    "type": "monkey",
+    "name": "Rocky",
+    "description": "A monkey #1, approx 91 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "monkey2",
+    "type": "monkey",
+    "name": "Rocky",
+    "description": "A monkey #2, approx 93 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "monkey3",
+    "type": "monkey",
+    "name": "Muffin",
+    "description": "A monkey #3, approx 74 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "monkey4",
+    "type": "monkey",
+    "name": "Luna",
+    "description": "A monkey #4, approx 68 lbs, healthy and active.",
+    "traits": "Loves carrots"
+  },
+  {
+    "id": "monkey5",
+    "type": "monkey",
+    "name": "Oscar",
+    "description": "A monkey #5, approx 78 lbs, healthy and active.",
+    "traits": "Calm"
+  },
+  {
+    "id": "monkey6",
+    "type": "monkey",
+    "name": "Thor",
+    "description": "A monkey #6, approx 95 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "monkey7",
+    "type": "monkey",
+    "name": "Polly",
+    "description": "A monkey #7, approx 17 lbs, healthy and active.",
+    "traits": "Independent"
+  },
+  {
+    "id": "monkey8",
+    "type": "monkey",
+    "name": "Jazz",
+    "description": "A monkey #8, approx 20 lbs, healthy and active.",
+    "traits": "Protective"
+  },
+  {
+    "id": "monkey9",
+    "type": "monkey",
+    "name": "Apollo",
+    "description": "A monkey #9, approx 87 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "monkey10",
+    "type": "monkey",
+    "name": "Venus",
+    "description": "A monkey #10, approx 41 lbs, healthy and active.",
+    "traits": "Loves seeds"
+  },
+  {
+    "id": "monkey11",
+    "type": "monkey",
+    "name": "Sugar",
+    "description": "A monkey #11, approx 72 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "monkey12",
+    "type": "monkey",
+    "name": "Max",
+    "description": "A monkey #12, approx 72 lbs, healthy and active.",
+    "traits": "Slow but steady"
+  },
+  {
+    "id": "monkey13",
+    "type": "monkey",
+    "name": "Leo",
+    "description": "A monkey #13, approx 31 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "monkey14",
+    "type": "monkey",
+    "name": "Jazz",
+    "description": "A monkey #14, approx 62 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "monkey15",
+    "type": "monkey",
+    "name": "Bolt",
+    "description": "A monkey #15, approx 94 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "monkey16",
+    "type": "monkey",
+    "name": "Rain",
+    "description": "A monkey #16, approx 99 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "monkey17",
+    "type": "monkey",
+    "name": "Storm",
+    "description": "A monkey #17, approx 85 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "monkey18",
+    "type": "monkey",
+    "name": "Tiger",
+    "description": "A monkey #18, approx 67 lbs, healthy and active.",
+    "traits": "Peaceful"
+  },
+  {
+    "id": "monkey19",
+    "type": "monkey",
+    "name": "River",
+    "description": "A monkey #19, approx 86 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "monkey20",
+    "type": "monkey",
+    "name": "Leo",
+    "description": "A monkey #20, approx 61 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "monkey21",
+    "type": "monkey",
+    "name": "Shadow",
+    "description": "A monkey #21, approx 58 lbs, healthy and active.",
+    "traits": "Squeaky"
+  },
+  {
+    "id": "monkey22",
+    "type": "monkey",
+    "name": "Lola",
+    "description": "A monkey #22, approx 64 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "monkey23",
+    "type": "monkey",
+    "name": "George",
+    "description": "A monkey #23, approx 73 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "monkey24",
+    "type": "monkey",
+    "name": "Nala",
+    "description": "A monkey #24, approx 86 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "monkey25",
+    "type": "monkey",
+    "name": "Oakley",
+    "description": "A monkey #25, approx 21 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "monkey26",
+    "type": "monkey",
+    "name": "Goldie",
+    "description": "A monkey #26, approx 80 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "monkey27",
+    "type": "monkey",
+    "name": "Shadow",
+    "description": "A monkey #27, approx 89 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "monkey28",
+    "type": "monkey",
+    "name": "Flash",
+    "description": "A monkey #28, approx 8 lbs, healthy and active.",
+    "traits": "Enjoys swimming"
+  },
+  {
+    "id": "monkey29",
+    "type": "monkey",
+    "name": "Echo",
+    "description": "A monkey #29, approx 72 lbs, healthy and active.",
+    "traits": "Gentle"
+  },
+  {
+    "id": "monkey30",
+    "type": "monkey",
+    "name": "Rocky",
+    "description": "A monkey #30, approx 66 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "monkey31",
+    "type": "monkey",
+    "name": "Shelly",
+    "description": "A monkey #31, approx 99 lbs, healthy and active.",
+    "traits": "Friendly with kids"
+  },
+  {
+    "id": "monkey32",
+    "type": "monkey",
+    "name": "Maple",
+    "description": "A monkey #32, approx 5 lbs, healthy and active.",
+    "traits": "Energetic"
+  },
+  {
+    "id": "monkey33",
+    "type": "monkey",
+    "name": "Clover",
+    "description": "A monkey #33, approx 40 lbs, healthy and active.",
+    "traits": "Enjoys cuddles"
+  },
+  {
+    "id": "monkey34",
+    "type": "monkey",
+    "name": "Rocky",
+    "description": "A monkey #34, approx 33 lbs, healthy and active.",
+    "traits": "Curious"
+  },
+  {
+    "id": "monkey35",
+    "type": "monkey",
+    "name": "Song",
+    "description": "A monkey #35, approx 12 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "monkey36",
+    "type": "monkey",
+    "name": "Artemis",
+    "description": "A monkey #36, approx 57 lbs, healthy and active.",
+    "traits": "Affectionate"
+  },
+  {
+    "id": "monkey37",
+    "type": "monkey",
+    "name": "Milo",
+    "description": "A monkey #37, approx 12 lbs, healthy and active.",
+    "traits": "Funny"
+  },
+  {
+    "id": "monkey38",
+    "type": "monkey",
+    "name": "Bolt",
+    "description": "A monkey #38, approx 19 lbs, healthy and active.",
+    "traits": "Enjoys swinging"
+  },
+  {
+    "id": "monkey39",
+    "type": "monkey",
+    "name": "Hera",
+    "description": "A monkey #39, approx 10 lbs, healthy and active.",
+    "traits": "Talkative"
+  },
+  {
+    "id": "monkey40",
+    "type": "monkey",
+    "name": "Sugar",
+    "description": "A monkey #40, approx 56 lbs, healthy and active.",
+    "traits": "Loves belly rubs"
+  },
+  {
+    "id": "monkey41",
+    "type": "monkey",
+    "name": "Ash",
+    "description": "A monkey #41, approx 90 lbs, healthy and active.",
+    "traits": "Strong jumper"
+  },
+  {
+    "id": "monkey42",
+    "type": "monkey",
+    "name": "Kiwi",
+    "description": "A monkey #42, approx 85 lbs, healthy and active.",
+    "traits": "Sings beautifully"
+  },
+  {
+    "id": "monkey43",
+    "type": "monkey",
+    "name": "Hazel",
+    "description": "A monkey #43, approx 4 lbs, healthy and active.",
+    "traits": "Intelligent"
+  },
+  {
+    "id": "monkey44",
+    "type": "monkey",
+    "name": "George",
+    "description": "A monkey #44, approx 8 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "monkey45",
+    "type": "monkey",
+    "name": "Freya",
+    "description": "A monkey #45, approx 5 lbs, healthy and active.",
+    "traits": "Climbs trees"
+  },
+  {
+    "id": "monkey46",
+    "type": "monkey",
+    "name": "Tulip",
+    "description": "A monkey #46, approx 15 lbs, healthy and active.",
+    "traits": "Soft fur"
+  },
+  {
+    "id": "monkey47",
+    "type": "monkey",
+    "name": "Thor",
+    "description": "A monkey #47, approx 50 lbs, healthy and active.",
+    "traits": "Unique patterns"
+  },
+  {
+    "id": "monkey48",
+    "type": "monkey",
+    "name": "Max",
+    "description": "A monkey #48, approx 97 lbs, healthy and active.",
+    "traits": "Chirpy"
+  },
+  {
+    "id": "monkey49",
+    "type": "monkey",
+    "name": "Willow",
+    "description": "A monkey #49, approx 62 lbs, healthy and active.",
+    "traits": "Basks in sunlight"
+  },
+  {
+    "id": "monkey50",
+    "type": "monkey",
+    "name": "Artemis",
+    "description": "A monkey #50, approx 11 lbs, healthy and active.",
+    "traits": "Nocturnal"
+  }
+]
